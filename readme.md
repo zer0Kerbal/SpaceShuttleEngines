@@ -1,4 +1,4 @@
-# KlockheedMartin
+# Klockheed Martin (KMT)
 
 originally by [dtobi][dtobi] and then by [sarbian][sarbian]
 
