@@ -3,8 +3,9 @@
     "ignoredFiles": [
         "GameData/*",
         "docs/LegalMumboJumbo/*",
-        "GameData/KlockheedMartin/SSE/*",
-        "GameData/Klockheed Martin/SSE/Textures/*",
+        "GameData/KlockheedMartin/SpaceShuttleEngines/*",
+        "GameData/KlockheedMartin/SpaceShuttleEngines/Assets/*",
+        "GameData/KlockheedMartin/SpaceShuttleEngines/FX/*",
         "source/*",
         "**/Assets/**",
         "**/Flags/**",
