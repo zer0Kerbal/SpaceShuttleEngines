@@ -1,6 +1,6 @@
-﻿# .gitignore v2.0.6.0
+﻿# .gitignore v2.0.6.1
 # created: 01 01 2013
-# updated: 03 Apr 2022
+# updated: 11 Apr 2022
 # by zer0kerbal
 
 # 2.0.3.0 - add *.2do
@@ -175,3 +175,4 @@ graphics/Thumbs.db
 # OneCommander note file
 *.2do
 drfolder-*
+desktop.ini
