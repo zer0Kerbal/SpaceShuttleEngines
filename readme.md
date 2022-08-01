@@ -100,6 +100,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 ### Dependencies
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
+* [Klockheed Martian Ltd (KM/L)][KML]
 
 ### Supports
 
@@ -112,6 +113,12 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * [NEAR-FAR][far]
 * [Restock][restock]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
+
+### Suggests
+
+* [Space Shuttle Engines][SSE]
+* [Asteroid Cities (KM/AC)][KMAC]
+* [Special Parts Division (KM/SPD)][KMSPD]
 
 ### Tags
 
@@ -167,7 +174,7 @@ parts, config
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/changelog.md  "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/SpaceShuttleEngines/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/ "SpaceShuttleEngines Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/209177-*/ "SpaceShuttleEngines Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/SpaceShuttleEngines/issues "Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/SpaceShuttleEngines/blob/master/LICENSE "Github License"
 [MOD:markt]: https://zer0kerbal.github.io/SpaceShuttleEngines/Marketing "Marketing Slicks"
@@ -229,6 +236,11 @@ parts, config
 
 <!-- links to add-ons/mods -->
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
+[SSE]: https://forum.kerbalspaceprogram.com/index.php?/topic/209177-*/ "Space Shuttle Engines"
+[KML]: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/ "Klockheed Martian Ltd. (KM/L)"
+[KMAC]: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/ "Asteroid Cities (KM/AC)"
+[KMSPD]: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/ "Special Parts Division (KM/SPD)"
+
 [fs]: https://github.com/snjo/Firespitter/ "Firespitter"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
