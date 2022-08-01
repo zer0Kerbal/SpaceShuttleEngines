@@ -17,7 +17,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/209177-*/
   
   # A comma-separated list of topics to set on the repository
-  topics: space,shuttle,engine,klockheed,martian,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,dtobi,zedk
+  topics: space,shuttle,engine,gimbal,klockheed,martian,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,dtobi,zedk
   
 # Labels: define labels for Issues and Pull Requests
 labels:
