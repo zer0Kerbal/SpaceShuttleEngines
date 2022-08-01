@@ -16,6 +16,17 @@
 * Released for KSP 1.12.3
 
 * #2 - [Request]: New Name!
+  * updates #17 - Localization - Master
+  * closes #18 - English <us-en.cfg>
+  * closes #35 - Part Localization
+
+### Status 2.3.99.0
+
+* Issues
+  * closes #13 - Space Shuttle Engines (SSE() 2.3.99.0-adoption `<EDITION>`
+  * closes #14 - 2.3.99.0 Verify Legal Mumbo Jumbo
+  * closes #15 - 2.3.99.0 Create Documentation
+  * closes #16 - 2.3.99.0 Create Social Media
 
 ---
 
@@ -25,6 +36,12 @@
 
 * Use the stock gimbal
 * Require Gimbal Trim for the trimming
+
+### Status
+
+* Issues
+  * closes #44 - 2.3.0.0-release
+  * updates #36 - Previous Releases (Archive)
 
 ---
 
@@ -36,11 +53,11 @@
 * Fixed nodes
 * Updated ISP to 1.0 level
 
----
+### Status
 
-## Version 2.1.0.0-release
-
-* Fixed KM_Gimbal limitation for asymmetrical gimbal restraints
+* Issues
+  * closes #43 - 2.2.0.0-release
+  * updates #36 - Previous Releases (Archive)
 
 ---
 
@@ -49,6 +66,59 @@
 * Moved km_gimbal to a new dir
 * renamed to module to avoid problem with older installs
 * SSE part now use the module called "KM_Gimbal_3" and the launch effect requires SmokeScreen
+
+### Status
+
+* Issues
+  * closes #41 - 2.1.3.0-release
+  * updates #36 - Previous Releases (Archive)
+
+---
+
+## Version 2.1.0.0-release
+
+* Fixed KM_Gimbal limitation for asymmetrical gimbal restraints
+
+### Status
+
+* Issues
+  * closes #42 - 2.1.0.0-release
+  * updates #36 - Previous Releases (Archive)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Status
+
+* Issues
+  * closes #40 - 2.1.2.0-release
+  * updates #36 - Previous Releases (Archive)
+
+### Status
+
+* Issues
+  * closes #39 - 2.1.1.0-release
+  * updates #36 - Previous Releases (Archive)
+
+---
+
+### Status 2.0.1.0
+
+* Issues
+  * closes #38 - 2.0.1.0-release
+  * updates #36 - Previous Releases (Archive)
 
 ---
 
@@ -61,6 +131,12 @@
 * New folder structure
 * SmartParts are not included any more. Install SmartParts separately.
 * !!! Please delete all 23.5 Klockheed Martian Folders before installing this update
+
+### Status 2.0.0.0
+
+* Issues
+  * closes #37 - 2.0.0.0-release
+  * updates #36 - Previous Releases (Archive)
 
 ---
 
