@@ -207,7 +207,8 @@
 
 ## Version 0.4.0.0-release
 
-* External tank system and slight graphical overhaul of the BB engine (it has additional static shadows now)
+* External tank system
+* slight graphical overhaul of the BB engine (it has additional static shadows now)
 * 16 Tank elements for shuttles of many sizes
 * 4 Fuel flow breaker elements to separate one tank into several independent pieces
 * Some minor improvements of the BB engine's visuals
@@ -227,6 +228,9 @@
 * Increased thrust of the X2 engine (three X2s can now lift a shuttle plus payload)
 * Limited strong gimbaling to pitch axis
 * Removed heat animation from BB1 engines (it gets stuck whenever the engine rotates)
+* Added Big Bang rotating 2m engine.
+* Slightly changed the appearance of the "shoulder" radial connector.
+* Added tech tree integration.
 
 ---
 
