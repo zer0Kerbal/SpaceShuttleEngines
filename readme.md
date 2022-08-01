@@ -37,6 +37,26 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >
 > The main engines fly crooked with the CoM right above them and at full throttle overheat.
 
+**Parts:**
+
+* X0, X2 and X3 Space Shuttle Engines
+* X4 Linear Aerospike Engine
+* Orbital Maneuvering System (OMS) Engine
+* Double - Orbital Maneuvering System (OMS) Engine
+* Shuttle Shoulders attachment point for OMS
+* Two big 2.5m engines. One can rotate (check action groups and context menu)
+* Four tank shapes in four different sizes (16 parts in total)
+* Two fuel controllers for controlling fuel lines' flow
+* Radial mount for shuttle engines
+
+**Example Craft**
+
+The example craft are supposed to give you an idea how to setup the engines, fuel controllers, tracks, etc.
+
+Atlantis and Endeavor require procedural wings and B9.
+
+Explorer requires B9.
+
 ---
 
 ### See More
@@ -50,23 +70,21 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ---
 
+[See full Imgur Album](https://imgur.com/a/WbkSe)
+
 ![Hero Image][IMG:hero:0]
 
-### Youtube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
+[![SSE 1.0 Cryo and Engine Demo](https://img.youtube.com/vi/W2RUf55le3o/0.jpg)](https://www.youtube.com/watch?v=W2RUf55le3o)
 
-[![Kottabos reviews Dreamer](https://img.youtube.com/vi/Oj1etoybd7E/0.jpg)](https://www.youtube.com/watch?v=Oj1etoybd7E)
-
-<details>
-  <summary><b>Youtube review by <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/ ">Kottabos Gaming</a></b></summary>
-  Support on <a href="https://www.patreon.com/Kottabosgames">Patreon.</a>
-  <iframe width="1136" height="639" src="https://www.youtube.com/embed/Oj1etoybd7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</details>
+This is a tutorial series about building and handling your own space shuttle in KSP
+<a href="https://forum.kerbalspaceprogram.com/index.php?/topic/61282-*/"><img src="https://i.imgur.com/bjjxRDs.png" style="zoom:80%;" alt="Links, Videos and Tutorials" width="72%" height="72%"></a>
 
 ### Help Wanted
 
 > * Compatibility patches
 > * Contracts for these glorious parts
 > * Variant Textures
+> * Sample Crafts
 > * Converting from FireSpitter to Stock and/or KSPWheel  
 > * Model updates to Unity 2019
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlight
@@ -270,22 +288,22 @@ parts, config
 <!-- Localization -->
 [lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
 [qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"  
+[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"
 [BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png "Português Brasil"
-[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/CH.png "中文"  
-[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/DE.png "Deutsch"  
-[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png "Español"  
-[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/FR.png "Français"  
-[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/IT.png "Italiano"  
-[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/JA.png "日本語"  
-[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/KO.png "한국어"  
-[MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/MX.png "Mexicano Español"  
-[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NL.png "Dutch"  
+[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/CH.png "中文"
+[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/DE.png "Deutsch"
+[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png "Español"
+[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/FR.png "Français"
+[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/IT.png "Italiano"
+[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/JA.png "日本語"
+[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/KO.png "한국어"
+[MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/MX.png "Mexicano Español"
+[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NL.png "Dutch"
 [NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NO.png "Norsk"
-[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/PO.png "Polski"  
-[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png "Русский"  
-[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/SW.png "Svenska"  
-[TR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TR.png "Türk"  
+[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/PO.png "Polski"
+[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png "Русский"
+[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/SW.png "Svenska"
+[TR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TR.png "Türk"
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TW.png "国语"
 
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
@@ -295,7 +313,7 @@ parts, config
 [youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
 
 [dtobi]: https://forum.kerbalspaceprogram.com/index.php?/profile/90882-*/ "dtobi"
-[sarbian]: https://forum.kerbalspaceprogram.com/index.php?/profile/57146-*/ "sarbian"  
+[sarbian]: https://forum.kerbalspaceprogram.com/index.php?/profile/57146-*/ "sarbian"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 [IMG:flg:0]: https://via.placeholder.com/256x160png/ffffff/bada55?text=KGEx "Mini Sample Return Capsule Flag"
