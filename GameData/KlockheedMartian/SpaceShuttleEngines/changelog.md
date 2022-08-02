@@ -111,6 +111,11 @@
 
 ---
 
+## Version 2.0.1.0-release
+
+* 27 Jul 2014
+* .24 compatibility
+
 ### Status 2.0.1.0
 
 * Issues
