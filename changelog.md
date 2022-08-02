@@ -123,6 +123,7 @@
 
 * .24 compatibility
 * New KM Folder Structure
+* 27 Jul 2014
 
 * !!! Please delete all 23.5 Klockheed Martian Folders before installing this update
 * Recompiled with .net 3.5
