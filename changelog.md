@@ -29,6 +29,25 @@
     * Parts/Smallshoulders/Sh0.cfg
 * closes #54 - Fix part.cfgs
 
+### Previous Releases (Archive)
+
+* Version 2.0.0.0
+  * 27-Jul-2014
+* Version 2.0.1.0
+  * 27-Jul-2014
+* Version 2.1.1.0
+  * 25-Aug-2014
+* Version 2.1.2.0
+  * 25-Aug-2014
+* Version 2.1.3.0
+  * 21-Dec-2014
+* Version 2.1.0.0
+  * 09-Aug-2014
+* Version 2.2.0.0
+  * 20-May-2015
+* Version 2.3.0.0
+  * 07-Jul-2016
+
 ### Status 2.3.99.0
 
 * Issues
