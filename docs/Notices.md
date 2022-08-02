@@ -46,4 +46,32 @@ Other trademarks and registered trademarks are the property of the respective tr
 
 © 2011-2022 zer0Kerbal™
 
+> [ ](https://forum.kerbalspaceprogram.com/index.php?/topic/51197-11x-space-shuttle-engines-2016-07-03/#) Quote
+>
+> **After one year of developing and maintaining mods for KSP, it is time to move on for me.**
+>
+> **I will release the code and models into the public domain if anyone is interested. Please just drop me a message if you are interested in taking over the development and maintenance for this mod or if you would like to use its code or models in other mods.**
+>
+> **It was a pleasure to work with you guys!**
+>
+> **dtobi**
+>
+>  
+>
+> Expand  
+
+**License**
+
+\------------------------------
+
+This work is shared under Creative Commons CC BY-NC-ND 3.0 license.
+
+You may non-commercially share it as-is with credit to the author in the download and on the download page.
+
+Please contact me if you want to modify or extend the code.
+
+Author: dtobi
+
+\------------------------------
+
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->

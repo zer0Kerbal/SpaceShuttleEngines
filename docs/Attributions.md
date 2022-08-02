@@ -23,12 +23,17 @@ updated: 02 May 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/90882-*/"><img border="0" alt="dtobi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png"" width="50" height="50" > dtobi</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208046-*/" alt="Komplexity (KMPLX)"> Special Parts Division (KM/SPD)</a> parts addon!</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/90882-*/"><img border="0" alt="dtobi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > dtobi</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208046-*/" alt="Komplexity (KMPLX)"> Special Parts Division (KM/SPD)</a> parts addon!</li>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/57146-*/"><img border="0" alt="sarbian" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/SARB_256.png.e1dd6c3151697771c487b0eadb607496.thumb.png.d0a1db9555610e1208df16a364c0cdee.png" width="50" height="50" > sarbian</a> for saving the files</li>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/97711-*/"><img border="0" alt="raidernick" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/501st_dp_small.jpg.bfb55d4d9fd6cbcc52969c186f14f70a.thumb.jpg.8eef15186139f0266e757b9f0e660de4.jpg" width="50" height="50" > raidernick</a> for adopting previously</li>
-
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
+
+* Thanks to:
+  * careo for letting me use his gimballing code in the first versions of this mod.
+  * Firov for his altitude smart parts suggestion
+  * Duxwing for copy-editing SSE's and SmartParts front page and README.
+  * wasmic and Firov for improving the game balance of the engines
 
 ### Flag
 
