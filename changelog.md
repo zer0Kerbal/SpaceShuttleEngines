@@ -116,6 +116,8 @@
 * 27 Jul 2014
 * .24 compatibility
 
+* no changelog found
+
 ### Status 2.0.1.0
 
 * Issues
