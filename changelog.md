@@ -37,7 +37,7 @@
 * Use the stock gimbal
 * Require Gimbal Trim for the trimming
 
-### Status
+### Status 2.3.0.0
 
 * Issues
   * closes #44 - 2.3.0.0-release
@@ -53,7 +53,7 @@
 * Fixed nodes
 * Updated ISP to 1.0 level
 
-### Status
+### Status 2.2.0.0
 
 * Issues
   * closes #43 - 2.2.0.0-release
@@ -67,10 +67,34 @@
 * renamed to module to avoid problem with older installs
 * SSE part now use the module called "KM_Gimbal_3" and the launch effect requires SmokeScreen
 
-### Status
+### Status 2.1.3.0
 
 * Issues
   * closes #41 - 2.1.3.0-release
+  * updates #36 - Previous Releases (Archive)
+
+---
+
+## Version 2.1.2.0-release
+
+* no changelog found
+
+### Status 2.1.2.0
+
+* Issues
+  * closes #40 - 2.1.2.0-release
+  * updates #36 - Previous Releases (Archive)
+
+---
+
+## Version 2.1.1.0-release
+
+* no changelog found
+
+### Status 2.1.1.0
+
+* Issues
+  * closes #39 - 2.1.1.0-release
   * updates #36 - Previous Releases (Archive)
 
 ---
@@ -79,37 +103,10 @@
 
 * Fixed KM_Gimbal limitation for asymmetrical gimbal restraints
 
-### Status
+### Status 2.1.0.0
 
 * Issues
   * closes #42 - 2.1.0.0-release
-  * updates #36 - Previous Releases (Archive)
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Status
-
-* Issues
-  * closes #40 - 2.1.2.0-release
-  * updates #36 - Previous Releases (Archive)
-
-### Status
-
-* Issues
-  * closes #39 - 2.1.1.0-release
   * updates #36 - Previous Releases (Archive)
 
 ---
@@ -127,16 +124,23 @@
 * .24 compatibility
 * New KM Folder Structure
 
+* !!! Please delete all 23.5 Klockheed Martian Folders before installing this update
 * Recompiled with .net 3.5
 * New folder structure
 * SmartParts are not included any more. Install SmartParts separately.
-* !!! Please delete all 23.5 Klockheed Martian Folders before installing this update
 
 ### Status 2.0.0.0
 
 * Issues
   * closes #37 - 2.0.0.0-release
   * updates #36 - Previous Releases (Archive)
+
+---
+
+## Version 1.4.3.0-release
+
+* Recompiled for .24
+* Fixed valve problem
 
 ---
 
@@ -176,6 +180,83 @@
 * KM Gimbal now supports multi mode engines
 * Improved CPU performance by further reducing the collision meshes
 * Added multi adapter part for creating engine clusters below tanks
+
+---
+
+## Version 1.3.1.0-release
+
+* Performance improvements
+  * Simpler collision meshes for orange tank system - better performance
+  * km_lib update to stay synced with asteroid cities
+
+---
+
+## Version 1.2.1.0-release
+
+* Small fixes
+  * Reduced memory footprint by deleting unused textures
+  * Smart parts update
+  * Rotated SSME engine to match positive x axis
+  * Added +5 degree pitch option to action groups
+
+---
+
+## Version 1.2.0.0-release
+
+* RS-25 high detail SSME and improved FAR compatibility
+  * New SSME lookalike engine
+  * Improved FAR compatibility (tank node sizes fixed)
+
+---
+
+## Version 1.1.0.0-release
+
+* Sparkers and gimbal fixes
+  * Space shuttle spakers as launch effects (attach to launch clamps)
+  * Gimballing now also activates when engine is activated via action groups
+  * Gimballing now automatically turns off when the engine is deactivated
+  * Pitch can now be changed (+/-) via action groups. Close the context menu to adjust pitch during flight!
+  * New example craft
+  * Gimbal support for ModuleEnginesFX
+  * Smart Parts update (see smart parts for details)
+
+---
+
+## Version 1.0.0.0-release
+
+* Art Pass, Cryo Effects, Balancing, OMS
+  * Particle based pre-launch effect
+  * Art pass: Better looking tank system (more similar to the actual shuttle tank textures)
+  * Switched vacuum and sea level LSP. The engines are more realistic now. 
+  * Fixed offset for dual OMS engines. They fly straight now.
+  * Added OMS version of X0 engine.
+  * Fuel valve for getting rid of excess fuel before reentry
+  * The tank system has built-in smart part fuel sensors now. Right click on a tank.
+  * Smart parts update (see smart parts for details)
+
+---
+
+## Version 0.9.2.0-release
+
+* Updated Smart Parts
+  * Heading control over radio
+  * Improved altimeter device (thanks to Firov)
+  * Bugfix in the timer code
+  * Corrected size descriptions of fuel breakers and tanks
+  * Fixed bug with engine tweakables that made the CoM disappear
+  * Increased the weight of the OMS engines to match the TWR of the LV-909
+  * Reduced the heat production of the X3 engine
+  * Updated Firefly example craft (was broken)
+
+---
+
+## Version 0.9.4.0-release
+
+* Smart Parts Update and Bufix of Explorer craft
+  * Example craft for smart parts
+  * Minor fixes for smart parts
+  * Fixed Explorer example craft
+  * New KM_Lib.dll
 
 ---
 
