@@ -101,6 +101,7 @@
 
 ## Version 2.1.0.0-release
 
+* 09 Aug 2014
 * Fixed KM_Gimbal limitation for asymmetrical gimbal restraints
 
 ### Status 2.1.0.0
@@ -115,6 +116,8 @@
 
 * 27 Jul 2014
 * .24 compatibility
+
+* no changelog found
 
 ### Status 2.0.1.0
 
