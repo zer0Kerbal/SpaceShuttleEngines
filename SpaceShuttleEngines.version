@@ -32,7 +32,5 @@
 	{
 		"NAME" :	  "SpaceShuttleEngines",
 		"DIRECTORY" : "KlockheedMartian/SpaceShuttleEngines"
-		"NAME" : "Ships",
-		"DIRECTORY: "Ships"
 	}
 }
