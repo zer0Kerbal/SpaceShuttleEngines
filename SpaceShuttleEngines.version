@@ -1,5 +1,5 @@
 {
-	"NAME"		     : "SpaceShuttleEngines (SSE)",
+	"NAME"		     : "Space Shuttle Engines (SSE)",
 	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/SpaceShuttleEngines.version",
 	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/SpaceShuttleEngines/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/changelog.md",
@@ -12,20 +12,20 @@
 	"VERSION" :
 	{
 		"MAJOR" : 2,
-		"MINOR" : 1,
-		"PATCH" : 3,
+		"MINOR" : 2,
+		"PATCH" : 0,
 		"BUILD" : 0
 	},
 	"KSP_VERSION" :
 	{
-		"MAJOR" : 0,
-		"MINOR" : 24,
+		"MAJOR" : 1,
+		"MINOR" : 0,
 		"PATCH" : 0
 	},
 	"KSP_VERSION_MIN" :
 	{
 		"MAJOR" : 0,
-		"MINOR" : 24,
+		"MINOR" : 90,
 		"PATCH" : 0
 	},
 	"INSTALL_LOC" :

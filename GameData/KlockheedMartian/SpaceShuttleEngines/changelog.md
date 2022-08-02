@@ -47,6 +47,7 @@
 
 ## Version 2.2.0.0-release
 
+* 15 May 2015
 * Updated for 1.0
 
 * DDS textures
