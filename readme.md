@@ -17,7 +17,7 @@ Space Shuttle Engine (SSE) pack by Klockheed Martian Engine Manufacture - for Ke
 
 
 
-## By [`zer0Kerbal`][zer0Kerbal], originally by [`dtobi`][dtobi] and then maintained by [`sarbian`][sarbian]
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`dtobi`][dtobi] and then by [`sarbian`][sarbian]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
@@ -85,7 +85,6 @@ This is a tutorial series about building and handling your own space shuttle in 
 > * Contracts for these glorious parts
 > * Variant Textures
 > * Sample Crafts
-> * Converting from FireSpitter to Stock and/or KSPWheel  
 > * Model updates to Unity 2019
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlight
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
@@ -127,9 +126,6 @@ or [![CKAN][CKAN:img]][CKAN:url]
   * [Module Manager /L][mml]
 
 * [On Demand Fuel Cells (ODFC)][ODFC]
-* [Firespitter][fs] for fully functioning wheels. may invoke bouts of dizziness.
-* [NEAR-FAR][far]
-* [Restock][restock]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 
 ### Suggests
@@ -152,7 +148,7 @@ parts, config
 ### Credits and Special Thanks
 
 * [`dtobi`][dtobi] for creating this glorious parts addon!
-* [`sarbian`][sarbian] for maintaining when [dtobi][dtobi] left off
+* [`sarbian`][sarbian] for picking up where [dtobi][dtobi] left off
 * see [Attribution.md][MOD:attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
