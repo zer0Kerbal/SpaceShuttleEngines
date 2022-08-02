@@ -12,14 +12,22 @@
 	"VERSION" :
 	{
 		"MAJOR" : 2,
+<<<<<<< Updated upstream
 		"MINOR" : 3,
+=======
+		"MINOR" : 2,
+>>>>>>> Stashed changes
 		"PATCH" : 0,
 		"BUILD" : 0
 	},
 	"KSP_VERSION" :
 	{
 		"MAJOR" : 1,
+<<<<<<< Updated upstream
 		"MINOR" : 1,
+=======
+		"MINOR" : 0,
+>>>>>>> Stashed changes
 		"PATCH" : 0
 	},
 	"KSP_VERSION_MIN" :
