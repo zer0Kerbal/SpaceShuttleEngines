@@ -20,6 +20,15 @@
   * closes #18 - English <us-en.cfg>
   * closes #35 - Part Localization
 
+* Fix
+  * Missing closes PART brace
+    * Parts/Shoulders/part.cfg
+    * Parts/Multi Adapter/ma1.cfg
+    * Parts/Multi Adapter/ma0.cfg
+    * Parts/Smallshoulders/Sh1.cfg
+    * Parts/Smallshoulders/Sh0.cfg
+* closes #54 - Fix part.cfgs
+
 ### Status 2.3.99.0
 
 * Issues
@@ -30,8 +39,9 @@
 
 ---
 
-## Version 2.3.0.0-release
+## Version 2.3.0.0-release - `<Thank you sarbian>` edition
 
+* 03 Jul 2016
 * Update for 1.1
 
 * Use the stock gimbal
