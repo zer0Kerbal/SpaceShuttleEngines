@@ -51,9 +51,16 @@
 
 bb1.mu -> sse-engine-bigbang-1.mu
 bb2.mu -> sse-engine-bigbang-2.mu
+double-oms.mu -> sse-engine-oms-double.mu
+oms.mu -> sse-engine-oms-single.mu
+
 
 part.cfg -> sse-engine-bigbang-1.cfg
 part.cfg -> sse-engine-bigbang-2.cfg
+part.cfg -> sse-engine-oms-double.cfg
+  double-oms --> sse-engine-oms-double
+part.cfg -> sse-engine-oms-single.cfg
+  oms --> sse-engine-oms-single
 
 remove duplicates
   
