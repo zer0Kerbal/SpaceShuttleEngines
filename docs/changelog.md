@@ -63,6 +63,8 @@
 
 ## Version 2.1.3.0-release
 
+* 21 Dec 2014
+
 * Moved km_gimbal to a new dir
 * renamed to module to avoid problem with older installs
 * SSE part now use the module called "KM_Gimbal_3" and the launch effect requires SmokeScreen
