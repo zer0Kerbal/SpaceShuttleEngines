@@ -77,6 +77,7 @@
 
 ## Version 2.1.2.0-release
 
+* 25 Aug 2014
 * no changelog found
 
 ### Status 2.1.2.0
