@@ -54,6 +54,7 @@ bb2.mu -> sse-engine-bigbang-2.mu
 double-oms.mu -> sse-engine-oms-double.mu
 oms.mu -> sse-engine-oms-single.mu
 model.mu -> sse-multiadaptatron.mu
+sh1.mu -> sse-shoulder-1.mu
 
 
 part.cfg -> sse-engine-bigbang-1.cfg
