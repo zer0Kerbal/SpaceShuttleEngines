@@ -53,6 +53,7 @@ bb1.mu -> sse-engine-bigbang-1.mu
 bb2.mu -> sse-engine-bigbang-2.mu
 double-oms.mu -> sse-engine-oms-double.mu
 oms.mu -> sse-engine-oms-single.mu
+model.mu -> sse-multiadaptatron.mu
 
 
 part.cfg -> sse-engine-bigbang-1.cfg
@@ -61,6 +62,32 @@ part.cfg -> sse-engine-oms-double.cfg
   double-oms --> sse-engine-oms-double
 part.cfg -> sse-engine-oms-single.cfg
   oms --> sse-engine-oms-single
+
+
+sse-multiadaptatron-0 // km_ma0
+sse-multiadaptatron-1 // km_ma1
+
+sse-shoulder-1 // sh1
+sse-shoulder-small-0 // kmssh0
+sse-shoulder-small-1 // kmssh1
+
+sse-engine-0 // km_se0
+sse-engine-0-oms // km_se0-oms
+
+sse-engine-1-a // km_ssme_rs25s
+sse-engine-1-s // km_ssme_rs25ss
+
+sse-engine-2 // se2
+sse-engine-3 // km_se3
+sse-engine-4 // km_se4L
+
+sse_sparkler // KM_sparkler
+
+sse-tank-top-? // km-tank-top-?
+sse-tank-mid-? // km-tank-mid-?
+sse-tank-mid-small-? // km-tank-mid-small-?
+sse-tank-bottom-? // km-tank-bottom-?
+ghostParts.cfg v1.3.0.0
 
 remove duplicates
   
