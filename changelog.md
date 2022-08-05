@@ -94,6 +94,7 @@ remove duplicates
   
   * bb-HEAT 1.dds 42.8kb
   * cloud.dds 21.4kb
+  * FX/cloud.dds 21.4kb
 
 ### Status 2.3.99.0
 
