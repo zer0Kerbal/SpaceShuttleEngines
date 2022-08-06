@@ -13,7 +13,7 @@ updated: 05 Jul 2022 -->
 
 # Space Shuttle Engines (SSE)
 
-Space Shuttle Engine (SSE) pack by Klockheed Martian Engine Manufacture - for Kerbal Space Program.
+Space Shuttle Engine (SSE) pack by Klockheed Martian Engine Manufacturer - for Kerbal Space Program.
 
 
 
