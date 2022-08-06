@@ -39,14 +39,14 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 **Parts:**
 
-* eleven (11) engine
+* eleven (11) engine parts
   * X0, X2 and X3 Space Shuttle Engines
   * X4 Linear Aerospike Engine
   * Orbital Maneuvering System (OMS) Engine
   * Double - Orbital Maneuvering System (OMS) Engine
   * Shuttle Shoulders attachment point for OMS
   * Two big 2.5m engines. One can rotate (check action groups and context menu)
-* sixteen (16) tank part
+* sixteen (16) tank parts
   * Four tank shapes in four different sizes (16 parts in total)
 * six (6) other parts
   * Two fuel controllers for controlling fuel lines' flow
