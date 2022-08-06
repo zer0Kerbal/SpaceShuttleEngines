@@ -22,6 +22,7 @@
 * Not ready yet for live saves, although most game breaking changes are made.
 * <ghostparts.cfg> is provided for now for testing. This file will not active for version 2.4.0.0-release.
 * Can now search for `sse` or `km` in the editor search bar to find all parts in this pack.
+* Initial pass on parts complete except for tanks
 
 ### Changes
 
@@ -167,9 +168,17 @@ This is the first in a series of updates to this addon. Each update will update 
 
 ### Add localized tags to parts
 
-* [SpaceShuttleEngines.cfg] v1.0.0.0
+* [SpaceShuttleEngines.cfg] v1.0.1.0
   * adds localized tags to parts
+  * fix inadvertant passengers
+* closes #58 - [BUG:] <SpaceShuttleEngines.cfg> fix inadvertent passengers
 * closes #57 - Localization: Add localized tags to parts
+
+### Thumbnails
+
+* Add
+  * add @thumbs
+* closes #59 - Thumbnails
 
 ### Status 2.3.99.0
 
