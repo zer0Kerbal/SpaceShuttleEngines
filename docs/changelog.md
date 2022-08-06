@@ -1,4 +1,18 @@
-# Changelog  
+---
+permalink: /Changelog.html
+title: The Change Log
+description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
+# layout: bare
+tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
+---
+
+<!-- 
+hdr-changelog.md v1.0.0.0
+Space Shuttle Engines (SSE)
+created: 13 May 2022
+updated:
+CC BY-ND 4.0 by zer0Kerbal
+--># Changelog  
   
 | modName    | Space Shuttle Engines (SSE)                                       |
 | ---------- | ----------------------------------------------------------------- |
@@ -10,16 +24,124 @@
 | spacedock  | (https://spacedock.info/mod/3009)                                 |
 | ckan       | SpaceShuttleEngines                                               |
 
-## Version 2.3.99.0-adoption - `<EDITION>` edition
+## Version 2.3.99.0-adoption - `<T-Minus>` edition
 
-* 31 Jul 2022
+* 05 Aug 2022
 * Released for KSP 1.12.3
 
-* #2 - [Request]: New Name!
-  * updates #17 - Localization - Master
-  * closes #18 - English <us-en.cfg>
-  * closes #35 - Part Localization
+### Summary 2.3.99.0
 
+* Inital localization pass
+* Initial pass on parts complete (except for tanks)
+* Not ready yet for live saves, although most game breaking changes are made.
+* <ghostparts.cfg> is provided for now for testing. This file will not active for version 2.4.0.0-release.
+* Can now search for `sse` or `km` in the editor search bar to find all parts in this pack.
+
+### Changes
+
+This is the first in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+
+### Previous Releases (Archive)
+
+* Create archival releases
+  * Version 2.0.0.0 - 27-Jul-2014
+  * Version 2.0.1.0 - 27-Jul-2014
+  * Version 2.1.1.0 - 25-Aug-2014
+  * Version 2.1.2.0 - 25-Aug-2014
+  * Version 2.1.3.0 - 21-Dec-2014
+  * Version 2.1.0.0 - 09-Aug-2014
+  * Version 2.2.0.0 - 20-May-2015
+  * Version 2.3.0.0 - 07-Jul-2016
+
+### Asset Updates
+
+* create Assets/ folder
+* convert from mesh to MODEL
+* rename
+  * models to unique names
+    * double-oms --> sse-engine-oms-double
+      * oms --> sse-engine-oms-single
+      * km_ma0 --> sse-multiadaptatron-0
+      * km_ma1 --> sse-multiadaptatron-1
+      * sh1 --> sse-shoulder-1
+      * kmssh0 --> sse-shoulder-small-0
+      * kmssh1 --> sse-shoulder-small-1
+      * km_se0 --> sse-engine-0
+      * km_se0-oms --> sse-engine-0-oms
+      * km_ssme_rs25s --> sse-engine-1-a
+      * km_ssme_rs25ss --> sse-engine-1-s
+      * se2 --> sse-engine-2
+      * km_se3 --> sse-engine-3
+      * km_se4L --> sse-engine-4
+      * KM_sparkler --> sse-sparkler
+      * km-tank-top-? --> sse-tank-top-?
+      * km-tank-mid-? --> sse-tank-mid-?
+      * km-tank-mid-small-? --> sse-tank-mid-small-?
+      * km-tank-bottom-? --> sse-tank-bottom-?
+  * Rename model files to unique names
+    * bb1.mu -> sse-engine-bigbang-1.mu
+    * bb2.mu -> sse-engine-bigbang-2.mu
+    * double-oms.mu -> sse-engine-oms-double.mu
+    * oms.mu -> sse-engine-oms-single.mu
+    * model.mu -> sse-multiadaptatron.mu
+    * sh1.mu -> sse-shoulder-1.mu
+    * module.mu -> sse-engine-1-a.mu
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * remove duplicates textures/models
+    * [bb-HEAT 1.dds] 42.8kb
+    * [cloud.dds] 21.4kb
+    * [cloud.dds] 21.4kb
+    * [cloud.dds] 21.4kb
+    * [cloud.dds] 21.4kb
+    * [cloud.dds] 21.4kb
+    * [cloud.dds] 21.4kb
+    * [FX/cloud.dds] 21.4kb
+    * [x0-alpha-heat.dds] 42.8kb
+    * [x0-complete.dds] 341.kb
+    * [ssmeeffect.dds] 2.80kb
+    * [ssmeeffect.dds] 2.80kb
+    * [ssme-map.dd]s 341kb
+    * [ssme-map-ALPHA-COMPLETE.dds] 1.33mb
+    * [ssme-map-bump_NRM.dds] 1.33mb
+    * [ssme-map-heat.dds] 10.8kb
+    * total: 3.594mb
+* relocate part.cfg to Parts/
+* updates #55 - Asset Updates
+
+### Parts
+
+* Add
+  * <ghostParts.cfg> v1.3.0.0
+* Rename part files to match part names
+  * part.cfg -> sse-engine-bigbang-1.cfg
+  * part.cfg -> sse-engine-bigbang-2.cfg
+  * part.cfg -> sse-engine-oms-double.cfg
+  * part.cfg -> sse-engine-oms-single.cfg
+* Rename parts to match naming scheme
+  * double-oms --> sse-engine-oms-double
+  * oms --> sse-engine-oms-single
+  * km_ma0 --> sse-multiadaptatron-0
+  * km_ma1 --> sse-multiadaptatron-1
+  * sh1 --> sse-shoulder-1
+  * kmssh0 --> sse-shoulder-small-0
+  * kmssh1 --> sse-shoulder-small-1
+  * km_se0 --> sse-engine-0
+  * km_se0-oms --> sse-engine-0-oms
+  * km_ssme_rs25s --> sse-engine-1-a
+  * km_ssme_rs25ss --> sse-engine-1-s
+  * se2 --> sse-engine-2
+  * km_se3 --> sse-engine-3
+  * km_se4L --> sse-engine-4
+  * KM_sparkler --> sse-sparkler
+  * km-tank-top-? --> sse-tank-top-?
+  * km-tank-mid-? --> sse-tank-mid-?
+  * km-tank-mid-small-? --> sse-tank-mid-small-?
+  * km-tank-bottom-? --> sse-tank-bottom-?
 * Fix
   * Missing closes PART brace
     * Parts/Shoulders/part.cfg
@@ -29,13 +151,62 @@
     * Parts/Smallshoulders/Sh0.cfg
 * closes #54 - Fix part.cfgs
 
+### docs/
+
+* Add
+  * [`_config.yml`]
+  * [Attribution.md] v1.0.7.1
+  * [ManualInstallation.md] v1.1.8.0
+  * [404.md] v1.0.3.2
+  * [LegalMumboJumbo.md] v1.0.5.1
+  * [Localizations.md] v1.1.7.0
+  * [Marketing.md] v1.0.1.0
+  * [Notices.md] v1.0.1.0
+  * [Part-Catalog.md] v1.1.4.1
+  * [Why.md] v1.1.0.0
+* closes #56 - docs/
+
+### Localization
+
+* Create
+  * [MOD-NAME.cfg] v1.0.0.0
+    * adds localized tags to parts
+  * Localization/
+    * <en-us.cfg>
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+  * updates #17 - Localization - Master
+  * updates #18 - English <us-en.cfg>
+  * closes #35 - Part Localization
+
+### Add localized tags to parts
+
+* [SpaceShuttleEngines.cfg] v1.0.1.0
+  * adds localized tags to parts
+  * fix inadvertant passengers
+* closes #58 - [BUG:] <SpaceShuttleEngines.cfg> fix inadvertent passengers
+* closes #57 - Localization: Add localized tags to parts
+
+### Thumbnails
+
+* Add
+  * add @thumbs
+* closes #59 - Thumbnails
+
+### License
+
+* Updated License: CC BY-ND 4.0
+  * was: CC BY-NC-ND 3.0
+* closes #60 - License
+
 ### Status 2.3.99.0
 
 * Issues
-  * closes #13 - Space Shuttle Engines (SSE() 2.3.99.0-adoption `<EDITION>`
+  * closes #13 - Space Shuttle Engines (SSE) 2.3.99.0-adoption `<T-Minus>`
   * closes #14 - 2.3.99.0 Verify Legal Mumbo Jumbo
   * closes #15 - 2.3.99.0 Create Documentation
   * closes #16 - 2.3.99.0 Create Social Media
+  * closes #2 - [Request]: New Name!
 
 ---
 
@@ -428,3 +599,6 @@
 
 * dtobi
 * Initial release
+* April 19, 2013
+
+---

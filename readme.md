@@ -13,7 +13,7 @@ updated: 05 Jul 2022 -->
 
 # Space Shuttle Engines (SSE)
 
-Space Shuttle Engine (SSE) pack by Klockheed Martian Engine Manufacture - for Kerbal Space Program.
+Space Shuttle Engine (SSE) pack by Klockheed Martian Engine Manufacturer - for Kerbal Space Program.
 
 
 
@@ -224,9 +224,9 @@ parts, config
 [LIC:0:log]: https://licensebuttons.net/i/l/by-nc-nd/transparent/33/66/99/76x22.png "CC BY-NC-ND 3.0"
 [LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-ND 3.0"
 
-[LIC:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
-[LIC:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/json/license.json "CC BY-NC-SA 4.0"
+[LIC:url]: https://creativecommons.org/licenses/by-nd/4.0/ "CC BY-ND 4.0"
+[LIC:log]: https://licensebuttons.net/i/l/by-nd/transparent/33/66/99/76x22.png "CC BY-ND 4.0"
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/json/license.json "CC BY-ND 4.0"
 
 <!--- AVC -->
 [AVC:shd]: https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic
