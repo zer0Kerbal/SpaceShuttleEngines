@@ -10,24 +10,21 @@
 | spacedock  | (https://spacedock.info/mod/3009)                                 |
 | ckan       | SpaceShuttleEngines                                               |
 
-## Version 2.3.99.0-adoption - `<EDITION>` edition
+## Version 2.3.99.0-adoption - `<T-Minus>` edition
 
-* 31 Jul 2022
+* 05 Aug 2022
 * Released for KSP 1.12.3
 
-* #2 - [Request]: New Name!
-  * updates #17 - Localization - Master
-  * closes #18 - English <us-en.cfg>
-  * closes #35 - Part Localization
+### Summary 2.3.99.0
 
-* Fix
-  * Missing closes PART brace
-    * Parts/Shoulders/part.cfg
-    * Parts/Multi Adapter/ma1.cfg
-    * Parts/Multi Adapter/ma0.cfg
-    * Parts/Smallshoulders/Sh1.cfg
-    * Parts/Smallshoulders/Sh0.cfg
-* closes #54 - Fix part.cfgs
+* Inital localization pass
+* RecycleSite had a pass.
+* Not ready yet for live saves, although most game breaking changes are made.
+* Can now search for `sse` or `km` in the editor search bar to find all parts in this pack.
+
+### Changes
+
+This is the first in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
 
 ### Previous Releases (Archive)
 
@@ -130,6 +127,14 @@
   * km-tank-mid-? --> sse-tank-mid-?
   * km-tank-mid-small-? --> sse-tank-mid-small-?
   * km-tank-bottom-? --> sse-tank-bottom-?
+* Fix
+  * Missing closes PART brace
+    * Parts/Shoulders/part.cfg
+    * Parts/Multi Adapter/ma1.cfg
+    * Parts/Multi Adapter/ma0.cfg
+    * Parts/Smallshoulders/Sh1.cfg
+    * Parts/Smallshoulders/Sh0.cfg
+* closes #54 - Fix part.cfgs
 
 ### docs/
 
@@ -142,9 +147,9 @@
   * [Localizations.md] v1.1.7.0
   * [Marketing.md] v1.0.1.0
   * [Notices.md] v1.0.1.0
-  * Optional
   * [Part-Catalog.md] v1.1.4.1
   * [Why.md] v1.1.0.0
+* closes #56 - docs/
 
 ### Localization
 
@@ -155,22 +160,24 @@
     * <en-us.cfg>
     * [readme.md] v2.1.2.0
     * [quickstart.md] v1.0.1.1
-* Updates # - Localization Master
-* Closes # - Localization - English <en-us.cfg>
+  * updates #17 - Localization - Master
+  * updates #18 - English <us-en.cfg>
+  * closes #35 - Part Localization
 
 ### Add localized tags to parts
 
 * [SpaceShuttleEngines.cfg] v1.0.0.0
   * adds localized tags to parts
-
+* closes #57 - Localization: Add localized tags to parts
 
 ### Status 2.3.99.0
 
 * Issues
-  * closes #13 - Space Shuttle Engines (SSE() 2.3.99.0-adoption `<EDITION>`
+  * closes #13 - Space Shuttle Engines (SSE) 2.3.99.0-adoption `<T-Minus>`
   * closes #14 - 2.3.99.0 Verify Legal Mumbo Jumbo
   * closes #15 - 2.3.99.0 Create Documentation
   * closes #16 - 2.3.99.0 Create Social Media
+  * closes #2 - [Request]: New Name!
 
 ---
 
