@@ -41,23 +41,75 @@
   * Version 2.2.0.0 - 20-May-2015
   * Version 2.3.0.0 - 07-Jul-2016
 
-* Rename model files to unique names
-  * bb1.mu -> sse-engine-bigbang-1.mu
-  * bb2.mu -> sse-engine-bigbang-2.mu
-  * double-oms.mu -> sse-engine-oms-double.mu
-  * oms.mu -> sse-engine-oms-single.mu
-  * model.mu -> sse-multiadaptatron.mu
-  * sh1.mu -> sse-shoulder-1.mu
-  * module.mu -> sse-engine-1-a.mu
+### Asset Updates
 
+* create Assets/ folder
+* convert from mesh to MODEL
+* rename
+  * models to unique names
+    * double-oms --> sse-engine-oms-double
+      * oms --> sse-engine-oms-single
+      * km_ma0 --> sse-multiadaptatron-0
+      * km_ma1 --> sse-multiadaptatron-1
+      * sh1 --> sse-shoulder-1
+      * kmssh0 --> sse-shoulder-small-0
+      * kmssh1 --> sse-shoulder-small-1
+      * km_se0 --> sse-engine-0
+      * km_se0-oms --> sse-engine-0-oms
+      * km_ssme_rs25s --> sse-engine-1-a
+      * km_ssme_rs25ss --> sse-engine-1-s
+      * se2 --> sse-engine-2
+      * km_se3 --> sse-engine-3
+      * km_se4L --> sse-engine-4
+      * KM_sparkler --> sse_sparkler
+      * km-tank-top-? --> sse-tank-top-?
+      * km-tank-mid-? --> sse-tank-mid-?
+      * km-tank-mid-small-? --> sse-tank-mid-small-?
+      * km-tank-bottom-? --> sse-tank-bottom-?
+  * Rename model files to unique names
+    * bb1.mu -> sse-engine-bigbang-1.mu
+    * bb2.mu -> sse-engine-bigbang-2.mu
+    * double-oms.mu -> sse-engine-oms-double.mu
+    * oms.mu -> sse-engine-oms-single.mu
+    * model.mu -> sse-multiadaptatron.mu
+    * sh1.mu -> sse-shoulder-1.mu
+    * module.mu -> sse-engine-1-a.mu
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * remove duplicates textures/models
+    * [bb-HEAT 1.dds] 42.8kb
+    * [cloud.dds] 21.4kb
+    * [cloud.dds] 21.4kb
+    * [cloud.dds] 21.4kb
+    * [cloud.dds] 21.4kb
+    * [cloud.dds] 21.4kb
+    * [cloud.dds] 21.4kb
+    * [FX/cloud.dds] 21.4kb
+    * [x0-alpha-heat.dds] 42.8kb
+    * [x0-complete.dds] 341.kb
+    * [ssmeeffect.dds] 2.80kb
+    * [ssmeeffect.dds] 2.80kb
+    * [ssme-map.dd]s 341kb
+    * [ssme-map-ALPHA-COMPLETE.dds] 1.33mb
+    * [ssme-map-bump_NRM.dds] 1.33mb
+    * [ssme-map-heat.dds] 10.8kb
+    * total: 3.594mb
+* relocate part.cfg to Parts/
+* updates #55 - Asset Updates
+
+### Parts
+
+* Add
+  * <ghostParts.cfg> v1.3.0.0
 * Rename part files to match part names
   * part.cfg -> sse-engine-bigbang-1.cfg
   * part.cfg -> sse-engine-bigbang-2.cfg
   * part.cfg -> sse-engine-oms-double.cfg
   * part.cfg -> sse-engine-oms-single.cfg
-
-ghostParts.cfg v1.3.0.0
-
 * Rename parts to match naming scheme
   * double-oms --> sse-engine-oms-double
   * oms --> sse-engine-oms-single
@@ -79,24 +131,26 @@ ghostParts.cfg v1.3.0.0
   * km-tank-mid-small-? --> sse-tank-mid-small-?
   * km-tank-bottom-? --> sse-tank-bottom-?
 
-* remove duplicates textures/models
-  * [bb-HEAT 1.dds] 42.8kb
-  * [cloud.dds] 21.4kb
-  * [cloud.dds] 21.4kb
-  * [cloud.dds] 21.4kb
-  * [cloud.dds] 21.4kb
-  * [cloud.dds] 21.4kb
-  * [cloud.dds] 21.4kb
-  * [FX/cloud.dds] 21.4kb
-  * [x0-alpha-heat.dds] 42.8kb
-  * [x0-complete.dds] 341.kb
-  * [ssmeeffect.dds] 2.80kb
-  * [ssmeeffect.dds] 2.80kb
-  * [ssme-map.dd]s 341kb
-  * [ssme-map-ALPHA-COMPLETE.dds] 1.33mb
-  * [ssme-map-bump_NRM.dds] 1.33mb
-  * [ssme-map-heat.dds] 10.8kb
-  * total: 3.594mb
+### docs/
+
+* Add
+  * [`_config.yml`]
+  * [Attribution.md] v1.0.7.1
+  * [ManualInstallation.md] v1.1.8.0
+  * [404.md] v1.0.3.2
+  * [LegalMumboJumbo.md] v1.0.5.1
+  * [Localizations.md] v1.1.7.0
+  * [Marketing.md] v1.0.1.0
+  * [Notices.md] v1.0.1.0
+  * Optional
+  * [Part-Catalog.md] v1.1.4.1
+  * [Why.md] v1.1.0.0
+
+### Add localized tags to parts
+
+* [SpaceShuttleEngines.cfg] v1.0.0.0
+  * adds localized tags to parts
+
 
 ### Status 2.3.99.0
 
