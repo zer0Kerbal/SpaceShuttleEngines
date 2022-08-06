@@ -31,84 +31,72 @@
 
 ### Previous Releases (Archive)
 
-* Version 2.0.0.0
-  * 27-Jul-2014
-* Version 2.0.1.0
-  * 27-Jul-2014
-* Version 2.1.1.0
-  * 25-Aug-2014
-* Version 2.1.2.0
-  * 25-Aug-2014
-* Version 2.1.3.0
-  * 21-Dec-2014
-* Version 2.1.0.0
-  * 09-Aug-2014
-* Version 2.2.0.0
-  * 20-May-2015
-* Version 2.3.0.0
-  * 07-Jul-2016
+* Create archival releases
+  * Version 2.0.0.0 - 27-Jul-2014
+  * Version 2.0.1.0 - 27-Jul-2014
+  * Version 2.1.1.0 - 25-Aug-2014
+  * Version 2.1.2.0 - 25-Aug-2014
+  * Version 2.1.3.0 - 21-Dec-2014
+  * Version 2.1.0.0 - 09-Aug-2014
+  * Version 2.2.0.0 - 20-May-2015
+  * Version 2.3.0.0 - 07-Jul-2016
 
+* Rename model files to unique names
+  * bb1.mu -> sse-engine-bigbang-1.mu
+  * bb2.mu -> sse-engine-bigbang-2.mu
+  * double-oms.mu -> sse-engine-oms-double.mu
+  * oms.mu -> sse-engine-oms-single.mu
+  * model.mu -> sse-multiadaptatron.mu
+  * sh1.mu -> sse-shoulder-1.mu
+  * module.mu -> sse-engine-1-a.mu
 
-bb1.mu -> sse-engine-bigbang-1.mu
-bb2.mu -> sse-engine-bigbang-2.mu
-double-oms.mu -> sse-engine-oms-double.mu
-oms.mu -> sse-engine-oms-single.mu
-model.mu -> sse-multiadaptatron.mu
-sh1.mu -> sse-shoulder-1.mu
-module.mu -> sse-engine-1-a.mu
+* Rename part files to match part names
+  * part.cfg -> sse-engine-bigbang-1.cfg
+  * part.cfg -> sse-engine-bigbang-2.cfg
+  * part.cfg -> sse-engine-oms-double.cfg
+  * part.cfg -> sse-engine-oms-single.cfg
 
-
-part.cfg -> sse-engine-bigbang-1.cfg
-part.cfg -> sse-engine-bigbang-2.cfg
-part.cfg -> sse-engine-oms-double.cfg
-  double-oms --> sse-engine-oms-double
-part.cfg -> sse-engine-oms-single.cfg
-  oms --> sse-engine-oms-single
-
-
-sse-multiadaptatron-0 // km_ma0
-sse-multiadaptatron-1 // km_ma1
-
-sse-shoulder-1 // sh1
-sse-shoulder-small-0 // kmssh0
-sse-shoulder-small-1 // kmssh1
-
-sse-engine-0 // km_se0
-sse-engine-0-oms // km_se0-oms
-
-sse-engine-1-a // km_ssme_rs25s
-sse-engine-1-s // km_ssme_rs25ss
-
-sse-engine-2 // se2
-sse-engine-3 // km_se3
-sse-engine-4 // km_se4L
-
-sse_sparkler // KM_sparkler
-
-sse-tank-top-? // km-tank-top-?
-sse-tank-mid-? // km-tank-mid-?
-sse-tank-mid-small-? // km-tank-mid-small-?
-sse-tank-bottom-? // km-tank-bottom-?
 ghostParts.cfg v1.3.0.0
 
-remove duplicates
-  
-  * bb-HEAT 1.dds 42.8kb
-  * cloud.dds 21.4kb
-  * cloud.dds 21.4kb
-  * cloud.dds 21.4kb
-  * cloud.dds 21.4kb
-  * cloud.dds 21.4kb
-  * cloud.dds 21.4kb
-  * FX/cloud.dds 21.4kb
-  * x0-alpha-heat.dds 42.8kb
-  * x0-complete.dds 341.kb
-  * ssmeeffect.dds 2.80kb
-  * ssmeeffect.dds 2.80kb
-  * ssme-map.dds 341kb
-  * ssme-map-ALPHA-COMPLETE.dds 1.33mb
-  * ssme-map-bump_NRM.dds 1.33mb
-  * ssme-map-heat.dds 10.8kb
+* Rename parts to match naming scheme
+  * double-oms --> sse-engine-oms-double
+  * oms --> sse-engine-oms-single
+  * km_ma0 --> sse-multiadaptatron-0
+  * km_ma1 --> sse-multiadaptatron-1
+  * sh1 --> sse-shoulder-1
+  * kmssh0 --> sse-shoulder-small-0
+  * kmssh1 --> sse-shoulder-small-1
+  * km_se0 --> sse-engine-0
+  * km_se0-oms --> sse-engine-0-oms
+  * km_ssme_rs25s --> sse-engine-1-a
+  * km_ssme_rs25ss --> sse-engine-1-s
+  * se2 --> sse-engine-2
+  * km_se3 --> sse-engine-3
+  * km_se4L --> sse-engine-4
+  * KM_sparkler --> sse_sparkler
+  * km-tank-top-? --> sse-tank-top-?
+  * km-tank-mid-? --> sse-tank-mid-?
+  * km-tank-mid-small-? --> sse-tank-mid-small-?
+  * km-tank-bottom-? --> sse-tank-bottom-?
+
+* remove duplicates textures/models
+  * [bb-HEAT 1.dds] 42.8kb
+  * [cloud.dds] 21.4kb
+  * [cloud.dds] 21.4kb
+  * [cloud.dds] 21.4kb
+  * [cloud.dds] 21.4kb
+  * [cloud.dds] 21.4kb
+  * [cloud.dds] 21.4kb
+  * [FX/cloud.dds] 21.4kb
+  * [x0-alpha-heat.dds] 42.8kb
+  * [x0-complete.dds] 341.kb
+  * [ssmeeffect.dds] 2.80kb
+  * [ssmeeffect.dds] 2.80kb
+  * [ssme-map.dd]s 341kb
+  * [ssme-map-ALPHA-COMPLETE.dds] 1.33mb
+  * [ssme-map-bump_NRM.dds] 1.33mb
+  * [ssme-map-heat.dds] 10.8kb
+  * total: 3.594mb
 
 ### Status 2.3.99.0
 
