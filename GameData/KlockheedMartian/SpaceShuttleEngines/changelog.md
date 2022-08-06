@@ -179,6 +179,12 @@ This is the first in a series of updates to this addon. Each update will update 
   * add @thumbs
 * closes #59 - Thumbnails
 
+### License
+
+* Updated License: CC BY-ND 4.0
+  * was: CC BY-NC-ND 3.0
+* closes #60 - License
+
 ### Status 2.3.99.0
 
 * Issues
