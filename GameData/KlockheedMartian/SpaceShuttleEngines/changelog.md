@@ -20,6 +20,7 @@
 * Inital localization pass
 * RecycleSite had a pass.
 * Not ready yet for live saves, although most game breaking changes are made.
+* <ghostparts.cfg> is provided for now for testing. This file will not active for version 2.4.0.0-release.
 * Can now search for `sse` or `km` in the editor search bar to find all parts in this pack.
 
 ### Changes
@@ -58,7 +59,7 @@ This is the first in a series of updates to this addon. Each update will update 
       * se2 --> sse-engine-2
       * km_se3 --> sse-engine-3
       * km_se4L --> sse-engine-4
-      * KM_sparkler --> sse_sparkler
+      * KM_sparkler --> sse-sparkler
       * km-tank-top-? --> sse-tank-top-?
       * km-tank-mid-? --> sse-tank-mid-?
       * km-tank-mid-small-? --> sse-tank-mid-small-?
@@ -122,7 +123,7 @@ This is the first in a series of updates to this addon. Each update will update 
   * se2 --> sse-engine-2
   * km_se3 --> sse-engine-3
   * km_se4L --> sse-engine-4
-  * KM_sparkler --> sse_sparkler
+  * KM_sparkler --> sse-sparkler
   * km-tank-top-? --> sse-tank-top-?
   * km-tank-mid-? --> sse-tank-mid-?
   * km-tank-mid-small-? --> sse-tank-mid-small-?
