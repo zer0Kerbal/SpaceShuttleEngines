@@ -59,7 +59,7 @@ This is the first in a series of updates to this addon. Each update will update 
       * se2 --> sse-engine-2
       * km_se3 --> sse-engine-3
       * km_se4L --> sse-engine-4
-      * KM_sparkler --> sse_sparkler
+      * KM_sparkler --> sse-sparkler
       * km-tank-top-? --> sse-tank-top-?
       * km-tank-mid-? --> sse-tank-mid-?
       * km-tank-mid-small-? --> sse-tank-mid-small-?
@@ -123,7 +123,7 @@ This is the first in a series of updates to this addon. Each update will update 
   * se2 --> sse-engine-2
   * km_se3 --> sse-engine-3
   * km_se4L --> sse-engine-4
-  * KM_sparkler --> sse_sparkler
+  * KM_sparkler --> sse-sparkler
   * km-tank-top-? --> sse-tank-top-?
   * km-tank-mid-? --> sse-tank-mid-?
   * km-tank-mid-small-? --> sse-tank-mid-small-?
