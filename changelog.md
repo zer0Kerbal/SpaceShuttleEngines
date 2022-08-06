@@ -55,6 +55,7 @@ double-oms.mu -> sse-engine-oms-double.mu
 oms.mu -> sse-engine-oms-single.mu
 model.mu -> sse-multiadaptatron.mu
 sh1.mu -> sse-shoulder-1.mu
+module.mu -> sse-engine-1-a.mu
 
 
 part.cfg -> sse-engine-bigbang-1.cfg
@@ -94,7 +95,20 @@ remove duplicates
   
   * bb-HEAT 1.dds 42.8kb
   * cloud.dds 21.4kb
+  * cloud.dds 21.4kb
+  * cloud.dds 21.4kb
+  * cloud.dds 21.4kb
+  * cloud.dds 21.4kb
+  * cloud.dds 21.4kb
   * FX/cloud.dds 21.4kb
+  * x0-alpha-heat.dds 42.8kb
+  * x0-complete.dds 341.kb
+  * ssmeeffect.dds 2.80kb
+  * ssmeeffect.dds 2.80kb
+  * ssme-map.dds 341kb
+  * ssme-map-ALPHA-COMPLETE.dds 1.33mb
+  * ssme-map-bump_NRM.dds 1.33mb
+  * ssme-map-heat.dds 10.8kb
 
 ### Status 2.3.99.0
 
