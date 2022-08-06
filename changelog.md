@@ -146,6 +146,18 @@
   * [Part-Catalog.md] v1.1.4.1
   * [Why.md] v1.1.0.0
 
+### Localization
+
+* Create
+  * [MOD-NAME.cfg] v1.0.0.0
+    * adds localized tags to parts
+  * Localization/
+    * <en-us.cfg>
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+* Updates # - Localization Master
+* Closes # - Localization - English <en-us.cfg>
+
 ### Add localized tags to parts
 
 * [SpaceShuttleEngines.cfg] v1.0.0.0
