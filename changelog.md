@@ -20,6 +20,7 @@
 * Inital localization pass
 * RecycleSite had a pass.
 * Not ready yet for live saves, although most game breaking changes are made.
+* <ghostparts.cfg> is provided for now for testing. This file will not active for version 2.4.0.0-release.
 * Can now search for `sse` or `km` in the editor search bar to find all parts in this pack.
 
 ### Changes
