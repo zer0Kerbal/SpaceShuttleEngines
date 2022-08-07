@@ -31,8 +31,9 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ### Summary 2.3.99.0
 
-* Inital localization pass
-* Initial pass on parts complete (except for tanks)
+* Initial
+  * localization pass
+  * parts pass complete (except for tanks)
 * Not ready yet for live saves, although most game breaking changes are made.
 * <ghostparts.cfg> is provided for now for testing. This file will not active for version 2.4.0.0-release.
 * Can now search for `sse` or `km` in the editor search bar to find all parts in this pack.
