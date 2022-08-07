@@ -10,6 +10,33 @@
 | spacedock  | (https://spacedock.info/mod/3009)                                 |
 | ckan       | SpaceShuttleEngines                                               |
 
+## Version 2.3.99.1-adoption - `<EDITION>` edition
+
+* 12 Aug 2022
+* Released for KSP 1.12.3
+
+### Summary 2.3.99.1
+
+* Phase II pass:
+  * localization
+  * parts pass complete (including tanks)
+* <ghostparts.cfg> is provided for now for testing. This file will not active for version 2.4.0.0-release.
+* Can now search for `sse` or `km` in the editor search bar to find all parts in this pack.
+* DRAG_CUBES
+* Cargo
+* fuel switchers
+  * Initial Compatibility pass
+
+### Changes
+
+This is the next in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+
+### Status 2.3.99.1
+
+* Issues
+
+---
+
 ## Version 2.3.99.0-adoption - `<T-Minus>` edition
 
 * 05 Aug 2022
