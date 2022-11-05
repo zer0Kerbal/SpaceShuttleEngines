@@ -2,28 +2,31 @@
 permalink: /Notices.html
 title: Legal Notices
 description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
-# layout: bare
 tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!--
-Notices.md v1.0.0.0
-Special Parts Division (KM/SPD)
+Notices.md v1.0.1.0
+Space Shuttle Engines (SSE)
 created: 13 Apr 2022
-updated: 
+updated: 15 May 2022
 
 based upon work by LisiasT -->
 
-# Special Parts Division (KM/SPD)
+<script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
+<i class="fa-solid fa-file-contract fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
+
+# Space Shuttle Engines (SSE)
 
 [Home](./index.md)
 
 ## Trademarks
 
 * "Klockheed Martian" is trademark of dtobi
-* "E- Special Parts Pack" is trademark of dtobi
-* "Special Parts Division" is trademark of zer0Kerbal
-* "KM/SPD" is trademark of zer0Kerbal
+* "Shuttle Engines" is trademark of dtobi
+* "Space Shuttle Engines" is trademark of zer0Kerbal
+* "SSE" is trademark of zer0Kerbal
+* "KM/SSE" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
 * zer0Kerbal is trademark of zer0kerbal
@@ -46,7 +49,7 @@ Other trademarks and registered trademarks are the property of the respective tr
 
 © 2011-2022 zer0Kerbal™
 
-> [ ](https://forum.kerbalspaceprogram.com/index.php?/topic/51197-11x-space-shuttle-engines-2016-07-03/#) Quote
+> [dtobi](https://forum.kerbalspaceprogram.com/index.php?/topic/51197-11x-space-shuttle-engines-2016-07-03/#) Quote
 >
 > **After one year of developing and maintaining mods for KSP, it is time to move on for me.**
 >
@@ -55,12 +58,8 @@ Other trademarks and registered trademarks are the property of the respective tr
 > **It was a pleasure to work with you guys!**
 >
 > **dtobi**
->
->  
->
-> Expand  
 
-**License**
+## Original License
 
 \------------------------------
 
