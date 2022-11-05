@@ -2,10 +2,8 @@
 permalink: /Changelog.html
 title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
-# layout: bare
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- 
 hdr-changelog.md v1.0.0.0
 Space Shuttle Engines (SSE)
@@ -23,6 +21,123 @@ CC BY-ND 4.0 by zer0Kerbal
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SpaceShuttleEngines)  |
 | spacedock  | (https://spacedock.info/mod/3009)                                 |
 | ckan       | SpaceShuttleEngines                                               |
+
+## Version 2.3.99.1-prerelease - `<Thank you dtobi and sarbian>` edition
+
+* Released
+  * 04 Nov 2022
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
+
+### Summary 2.3.99.1
+
+* Phase II pass:
+  * localization complete
+  * parts pass complete (including tanks)
+* <ghostparts.cfg> is provided for now for testing. This file will not active for version 2.4.0.0-release.
+* Can now search for `sse` or `km` in the editor search bar to find all parts in this pack.
+* DRAG_CUBES
+
+### Changes 2.3.99.1
+
+This is the next in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+
+### Parts 2.3.99.1
+
+* Rename part files to match part names
+* Rename parts to match naming scheme
+* corrected BulkheadProfiles for 1.875m tanks from size1 to size1p5
+* Inital pass on all remaining parts completed
+  * sse-tank-bottom-3
+  * sse-tank-bottom-15
+  * sse-tank-mid-1
+  * sse-tank-mid-2
+  * sse-tank-mid-3
+  * sse-tank-mid-15
+  * sse-tank-mid-small-1
+  * sse-tank-mid-small-2
+  * sse-tank-mid-small-3
+  * sse-tank-mid-small-15
+  * sse-tank-top-1
+  * sse-tank-top-2
+  * sse-tank-top-3
+  * sse-tank-top-15
+  * sse-tank-bottom-1
+  * sse-tank-bottom-2
+
+### Compatibility 2.3.99.1
+
+* Move out from part.cfg's
+* Create <KlockheadMartian.cfg>
+  * KM_Stager into <KlockheadMartian.cfg>
+  * KM_PreLaunchEffect_SmkS into <KlockheadMartian.cfg>
+
+### Asset Updates 2.3.99.1
+
+* create Assets/ folder
+* convert from mesh to MODEL
+* rename
+  * models to unique names
+  * Rename model files to unique names
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * remove duplicates textures/models
+    * <cloud.dds> 22kb
+    * <orange-top-COMPLETE.dds> 342kb
+    * <orange-mid-large-complete.dds> 342kb
+    * <orange-top-COMPLETE.dds> 342kb
+    * <orange-top.dds> 683kb
+    * <orange-top-bump_NRM.dds> 1.366mb
+    * <orange-top-bump_NRM.dds> 1.366mb
+    * total reduction of ~7.944mb
+      * current total: 4.35 mb
+      * previous total: 3.594mb
+* relocate part.cfg to Parts/Tanks/
+* closes #55 - Asset Updates
+
+### docs/ 2.3.99.1
+
+* Move
+  * @thumbs to docs/
+* Update
+  * [`_config.yml`]
+  * [Attribution.md] v1.0.7.1
+  * [ManualInstallation.md] v1.1.8.0
+  * [404.md] v1.0.3.2
+  * [LegalMumboJumbo.md] v1.0.5.1
+  * [Localizations.md] v1.1.7.0
+  * [Marketing.md] v1.0.1.0
+  * [Notices.md] v1.0.1.0
+  * [Part-Catalog.md] v1.1.4.1
+  * [Why.md] v1.1.0.0
+* updates #56 - docs/
+
+### Localization 2.3.99.1
+
+* Update
+  * [SpaceShuttleEngines.cfg] v1.0.1.0
+    * adds localized tags to parts
+  * Localization/
+    * <en-us.cfg>
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+  * updates #17 - Localization - Master
+  * closes #18 - English <us-en.cfg>
+  * closes #35 - Part Localization
+
+### Status 2.3.99.1
+
+* Issues
+  * closes #63 - Space Shuttle Engines (SSE) 2.3.99.1-prerelease `<Thank you dtobi and sarbian>`
+  * closes #64 - 2.3.99.1 Verify Legal Mumbo Jumbo
+  * closes #65 - 2.3.99.1 Update Documentation
+  * closes #66 - 2.3.99.1 Update Social Media
+
+---
 
 ## Version 2.3.99.0-adoption - `<T-Minus>` edition
 
@@ -170,7 +285,7 @@ This is the first in a series of updates to this addon. Each update will update 
 ### Localization
 
 * Create
-  * [MOD-NAME.cfg] v1.0.0.0
+  * [SpaceShuttleEngines.cfg] v1.0.0.0
     * adds localized tags to parts
   * Localization/
     * <en-us.cfg>
