@@ -33,6 +33,18 @@
 
 This is the next in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
 
+corrected BulkheadProfiles for 1.875m tanks from size1 to size1p5
+
+move
+KM_Stager into <KlockheadMartian.cfg>
+KM_PreLaunchEffect_SmkS into <KlockheadMartian.cfg>
+
+-2.35mb
+342kb orange-top-COMPLETE.dds
+22kb cloud.dds
+683kb orange-top.dds
+1.366mb orange-top-bump_NRM.dds
+
 ### Status 2.3.99.1
 
 * Issues
