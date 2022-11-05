@@ -39,16 +39,124 @@ move
 KM_Stager into <KlockheadMartian.cfg>
 KM_PreLaunchEffect_SmkS into <KlockheadMartian.cfg>
 
--2.35mb
-22kb cloud.dds
-342kb orange-top-COMPLETE.dds
-683kb orange-top.dds
-1.366mb orange-top-bump_NRM.dds
+### Asset Updates
 
--2.0mb
-342kb orange-mid-large-complete.dds
-342kb orange-top-COMPLETE.dds
-1.366mb orange-top-bump_NRM.dds
+* create Assets/ folder
+* convert from mesh to MODEL
+* rename
+  * models to unique names
+  * Rename model files to unique names
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * remove duplicates textures/models
+    * <cloud.dds> 22kb
+    * <orange-top-COMPLETE.dds> 342kb
+    * <orange-mid-large-complete.dds> 342kb
+    * <orange-top-COMPLETE.dds> 342kb
+    * <orange-top.dds> 683kb
+    * <orange-top-bump_NRM.dds> 1.366mb
+    * <orange-top-bump_NRM.dds> 1.366mb
+    * total reduction of ~7.944mb
+      * current total: 4.35 mb
+      * previous total: 3.594mb
+* relocate part.cfg to Parts/Tanks/
+* closes #55 - Asset Updates
+
+
+* Parts
+  * inital pass on all remaining parts completed
+    * sse-tank-bottom-3
+    * sse-tank-bottom-15
+    * sse-tank-mid-1
+    * sse-tank-mid-2
+    * sse-tank-mid-3
+    * sse-tank-mid-15
+    * sse-tank-mid-small-1
+    * sse-tank-mid-small-2
+    * sse-tank-mid-small-3
+    * sse-tank-mid-small-15
+    * sse-tank-top-1
+    * sse-tank-top-2
+    * sse-tank-top-3
+    * sse-tank-top-15
+    * sse-tank-bottom-1
+    * sse-tank-bottom-2
+
+### Parts
+
+* Add
+  * <ghostParts.cfg> v1.3.0.0
+* Rename part files to match part names
+  * part.cfg -> sse-engine-bigbang-1.cfg
+  * part.cfg -> sse-engine-bigbang-2.cfg
+  * part.cfg -> sse-engine-oms-double.cfg
+  * part.cfg -> sse-engine-oms-single.cfg
+* Rename parts to match naming scheme
+  * double-oms --> sse-engine-oms-double
+  * oms --> sse-engine-oms-single
+  * km_ma0 --> sse-multiadaptatron-0
+  * km_ma1 --> sse-multiadaptatron-1
+  * sh1 --> sse-shoulder-1
+  * kmssh0 --> sse-shoulder-small-0
+  * kmssh1 --> sse-shoulder-small-1
+  * km_se0 --> sse-engine-0
+  * km_se0-oms --> sse-engine-0-oms
+  * km_ssme_rs25s --> sse-engine-1-a
+  * km_ssme_rs25ss --> sse-engine-1-s
+  * se2 --> sse-engine-2
+  * km_se3 --> sse-engine-3
+  * km_se4L --> sse-engine-4
+  * KM_sparkler --> sse-sparkler
+  * km-tank-top-? --> sse-tank-top-?
+  * km-tank-mid-? --> sse-tank-mid-?
+  * km-tank-mid-small-? --> sse-tank-mid-small-?
+  * km-tank-bottom-? --> sse-tank-bottom-?
+* Fix
+  * Missing closes PART brace
+    * Parts/Shoulders/part.cfg
+    * Parts/Multi Adapter/ma1.cfg
+    * Parts/Multi Adapter/ma0.cfg
+    * Parts/Smallshoulders/Sh1.cfg
+    * Parts/Smallshoulders/Sh0.cfg
+* closes #54 - Fix part.cfgs
+
+### docs/ 2.3.99.1
+
+* Move
+  * @thumbs to docs/
+* Update
+  * [`_config.yml`]
+  * [Attribution.md] v1.0.7.1
+  * [ManualInstallation.md] v1.1.8.0
+  * [404.md] v1.0.3.2
+  * [LegalMumboJumbo.md] v1.0.5.1
+  * [Localizations.md] v1.1.7.0
+  * [Marketing.md] v1.0.1.0
+  * [Notices.md] v1.0.1.0
+  * [Part-Catalog.md] v1.1.4.1
+  * [Why.md] v1.1.0.0
+* updates #56 - docs/
+
+### Localization
+
+* Update
+  * [SpaceShuttleEngines.cfg] v1.0.1.0
+    * adds localized tags to parts
+  * Localization/
+    * <en-us.cfg>
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+  * updates #17 - Localization - Master
+  * closes #18 - English <us-en.cfg>
+  * closes #35 - Part Localization
+
+
+
+
 
 ### Status 2.3.99.1
 
@@ -202,7 +310,7 @@ This is the first in a series of updates to this addon. Each update will update 
 ### Localization
 
 * Create
-  * [MOD-NAME.cfg] v1.0.0.0
+  * [SpaceShuttleEngines.cfg] v1.0.0.0
     * adds localized tags to parts
   * Localization/
     * <en-us.cfg>
