@@ -1,11 +1,13 @@
 ---
-permalink: /License.html
+permalink: /OrigLicense.html
 title: License: CC BY-NC-ND 3.0 Unported
 ---
+<!-- CC-BY-NC-ND-3.0.md v1.0.1.0
+Space Shuttle Engines (SSE)
+created: 01 Feb 2022
+updated: 07 Mar 2022 -->
 
-[Creative Commons](https://creativecommons.org/)
-
-# 
+# CC BY-NC-ND 3.0 [Creative Commons](https://creativecommons.org/)
 
 ## Attribution-NonCommercial-NoDerivs 3.0 Unported
 
