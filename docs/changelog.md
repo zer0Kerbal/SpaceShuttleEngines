@@ -2,10 +2,8 @@
 permalink: /Changelog.html
 title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
-# layout: bare
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- 
 hdr-changelog.md v1.0.0.0
 Space Shuttle Engines (SSE)
@@ -23,6 +21,71 @@ CC BY-ND 4.0 by zer0Kerbal
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SpaceShuttleEngines)  |
 | spacedock  | (https://spacedock.info/mod/3009)                                 |
 | ckan       | SpaceShuttleEngines                                               |
+
+## Version 2.3.99.1-prerelease - `<Thank you dtobi and sarbian>` edition
+
+* Released
+  * 04 Nov 2022
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
+
+### Summary 2.3.99.1
+
+* Phase II pass:
+  * localization
+  * parts pass complete (including tanks)
+* <ghostparts.cfg> is provided for now for testing. This file will not active for version 2.4.0.0-release.
+* Can now search for `sse` or `km` in the editor search bar to find all parts in this pack.
+* DRAG_CUBES
+* ModuleCargoPart
+* fuel switchers
+  * Initial Compatibility pass
+
+### Changes
+
+This is the next in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+
+corrected BulkheadProfiles for 1.875m tanks from size1 to size1p5
+
+move
+KM_Stager into <KlockheadMartian.cfg>
+KM_PreLaunchEffect_SmkS into <KlockheadMartian.cfg>
+
+-2.35mb
+22kb cloud.dds
+342kb orange-top-COMPLETE.dds
+683kb orange-top.dds
+1.366mb orange-top-bump_NRM.dds
+
+-2.0mb
+342kb orange-mid-large-complete.dds
+342kb orange-top-COMPLETE.dds
+1.366mb orange-top-bump_NRM.dds
+
+* Parts
+  * inital pass on all remaining parts completed
+    * sse-tank-bottom-3
+    * sse-tank-bottom-15
+    * sse-tank-mid-1
+    * sse-tank-mid-2
+    * sse-tank-mid-3
+    * sse-tank-mid-15
+    * sse-tank-mid-small-1
+    * sse-tank-mid-small-2
+    * sse-tank-mid-small-3
+    * sse-tank-mid-small-15
+    * sse-tank-top-1
+    * sse-tank-top-2
+    * sse-tank-top-3
+    * sse-tank-top-15
+    * sse-tank-bottom-1
+    * sse-tank-bottom-2
+
+### Status 2.3.99.1
+
+* Issues
+
+---
 
 ## Version 2.3.99.0-adoption - `<T-Minus>` edition
 
