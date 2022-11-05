@@ -10,10 +10,12 @@
 | spacedock  | (https://spacedock.info/mod/3009)                                 |
 | ckan       | SpaceShuttleEngines                                               |
 
-## Version 2.3.99.1-adoption - `<EDITION>` edition
+## Version 2.3.99.1-adoption - `<Thank you dtobi and sarbian>` edition
 
-* 12 Aug 2022
-* Released for KSP 1.12.3
+* Released
+  * 04 Nov 2022
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
 
 ### Summary 2.3.99.1
 
