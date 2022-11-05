@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/3009)                                 |
 | ckan       | SpaceShuttleEngines                                               |
 
-## Version 2.3.99.1-adoption - `<Thank you dtobi and sarbian>` edition
+## Version 2.3.99.1-prerelease - `<Thank you dtobi and sarbian>` edition
 
 * Released
   * 04 Nov 2022
