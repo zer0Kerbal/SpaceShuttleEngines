@@ -40,71 +40,71 @@ This add-on adds thirty-three (11) space shuttle themed parts
 
 * sse-engine-0_icon.png
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-engine-0_icon.png" alt="sse-engine-0_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-engine-0_icon.png" alt="sse-engine-0_icon.png" width="25%" height="25%" />
 
-* *sse-engine-0-oms_icon.png
+* sse-engine-0-oms_icon.png
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-engine-0-oms_icon.png" alt="sse-engine-0-oms_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-engine-0-oms_icon.png" alt="sse-engine-0-oms_icon.png" width="25%" height="25%" />
 
 * sse-engine-1-a_icon.png
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-engine-1-a_icon.png" alt="sse-engine-1-a_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-engine-1-a_icon.png" alt="sse-engine-1-a_icon.png" width="25%" height="25%" />
 
 * sse-engine-1-s_icon.png
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-engine-1-s_icon.png" alt="sse-engine-1-s_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-engine-1-s_icon.png" alt="sse-engine-1-s_icon.png" width="25%" height="25%" />
 
 * sse-engine-2_icon.png
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-engine-2_icon.png" alt="sse-engine-2_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-engine-2_icon.png" alt="sse-engine-2_icon.png" width="25%" height="25%" />
 
 * sse-engine-3_icon.png
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-engine-3_icon.png" alt="sse-engine-3_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-engine-3_icon.png" alt="sse-engine-3_icon.png" width="25%" height="25%" />
 
 * sse-engine-4_icon.png
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-engine-4_icon.png" alt="sse-engine-4_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-engine-4_icon.png" alt="sse-engine-4_icon.png" width="25%" height="25%" />
 
 * sse-engine-bigbang-1_icon.png
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-engine-bigbang-1_icon.png" alt="sse-engine-bigbang-1_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-engine-bigbang-1_icon.png" alt="sse-engine-bigbang-1_icon.png" width="25%" height="25%" />
 
 * sse-engine-bigbang-2_icon.png
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-engine-bigbang-2_icon.png" alt="sse-engine-bigbang-2_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-engine-bigbang-2_icon.png" alt="sse-engine-bigbang-2_icon.png" width="25%" height="25%" />
 
 * sse-engine-oms-double_icon.png
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-engine-oms-double_icon.png" alt="sse-engine-oms-double_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-engine-oms-double_icon.png" alt="sse-engine-oms-double_icon.png" width="25%" height="25%" />
 
 * sse-engine-oms-single_icon.png
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-engine-oms-single_icon.png" alt="sse-engine-oms-single_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-engine-oms-single_icon.png" alt="sse-engine-oms-single_icon.png" width="25%" height="25%" />
 
 * sse-multiadaptatron-0_icon.png
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-multiadaptatron-0_icon.png" alt="sse-multiadaptatron-0_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-multiadaptatron-0_icon.png" alt="sse-multiadaptatron-0_icon.png" width="25%" height="25%" />
 
 * sse-multiadaptatron-1_icon.png
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-multiadaptatron-1_icon.png" alt="sse-multiadaptatron-1_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-multiadaptatron-1_icon.png" alt="sse-multiadaptatron-1_icon.png" width="25%" height="25%" />
 
 * sse-shoulder-1_icon.png
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-shoulder-1_icon.png" alt="sse-shoulder-1_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-shoulder-1_icon.png" alt="sse-shoulder-1_icon.png" width="25%" height="25%" />
 
 * sse-shoulder-small-0_icon.png
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-shoulder-small-0_icon.png" alt="sse-shoulder-small-0_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-shoulder-small-0_icon.png" alt="sse-shoulder-small-0_icon.png" width="25%" height="25%" />
 
 * sse-shoulder-small-1_icon.png
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-shoulder-small-1_icon.png" alt="sse-shoulder-small-1_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-shoulder-small-1_icon.png" alt="sse-shoulder-small-1_icon.png" width="25%" height="25%" />
 
 * sse-sparkler_icon.png
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-sparkler_icon.png" alt="sse-sparkler_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-sparkler_icon.png" alt="sse-sparkler_icon.png" width="25%" height="25%" />
 
 [top](#parts-catalog)
 
@@ -113,29 +113,29 @@ This add-on adds thirty-three (11) space shuttle themed parts
 * Tank Bottom
   * 1, 2, 3, 15
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-tank-bottom-1_icon.png" alt="sse-tank-bottom-1_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-tank-bottom-2_icon.png" alt="sse-tank-bottom-2_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-tank-bottom-3_icon.png" alt="sse-tank-bottom-3_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-tank-bottom-15_icon.png" alt="sse-tank-bottom-15_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-tank-bottom-1_icon.png" alt="sse-tank-bottom-1_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-tank-bottom-2_icon.png" alt="sse-tank-bottom-2_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-tank-bottom-3_icon.png" alt="sse-tank-bottom-3_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-tank-bottom-15_icon.png" alt="sse-tank-bottom-15_icon.png" width="25%" height="25%" />
 
 [top](#parts-catalog)
 
 * Tank Mid
   * 1, 2, 3, 15
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-tank-mid-1_icon.png" alt="sse-tank-mid-1_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-tank-mid-2_icon.png" alt="sse-tank-mid-2_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-tank-mid-3_icon.png" alt="sse-tank-mid-3_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-tank-mid-15_icon.png" alt="sse-tank-mid-15_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-tank-mid-1_icon.png" alt="sse-tank-mid-1_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-tank-mid-2_icon.png" alt="sse-tank-mid-2_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-tank-mid-3_icon.png" alt="sse-tank-mid-3_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-tank-mid-15_icon.png" alt="sse-tank-mid-15_icon.png" width="25%" height="25%" />
 
 [top](#parts-catalog)
 
 * Tank Mid Small
   * 1, 2, 3, 15
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-tank-mid-small-1_icon.png" alt="sse-tank-mid-small-1_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-tank-mid-small-2_icon.png" alt="sse-tank-mid-small-2_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-tank-mid-small-3_icon.png" alt="sse-tank-mid-small-3_icon.png" width="25%" height="25%" />
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-tank-mid-small-15_icon.png" alt="sse-tank-mid-small-15_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-tank-mid-small-1_icon.png" alt="sse-tank-mid-small-1_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-tank-mid-small-2_icon.png" alt="sse-tank-mid-small-2_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-tank-mid-small-3_icon.png" alt="sse-tank-mid-small-3_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-tank-mid-small-15_icon.png" alt="sse-tank-mid-small-15_icon.png" width="25%" height="25%" />
 
 [top](#parts-catalog)
 
 * Tank Tops:
   * 1, 2, 3, 15
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-tank-top-1_icon.png" alt="sse-tank-top-1_icon.png" width="25%" height="25%" />  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-tank-top-2_icon.png" alt="sse-tank-top-2_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-tank-top-3_icon.png" alt="sse-tank-top-3_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/GameData/KlockheedMartian/SpaceShuttleEngines/Parts/%40thumbs/sse-tank-top-15_icon.png" alt="sse-tank-top-15_icon.png" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-tank-top-1_icon.png" alt="sse-tank-top-1_icon.png" width="25%" height="25%" />  <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-tank-top-2_icon.png" alt="sse-tank-top-2_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-tank-top-3_icon.png" alt="sse-tank-top-3_icon.png" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceShuttleEngines/master/docs/%40thumbs/sse-tank-top-15_icon.png" alt="sse-tank-top-15_icon.png" width="25%" height="25%" />
 
 ### Other Parts
 
