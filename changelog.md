@@ -40,9 +40,14 @@ KM_Stager into <KlockheadMartian.cfg>
 KM_PreLaunchEffect_SmkS into <KlockheadMartian.cfg>
 
 -2.35mb
-342kb orange-top-COMPLETE.dds
 22kb cloud.dds
+342kb orange-top-COMPLETE.dds
 683kb orange-top.dds
+1.366mb orange-top-bump_NRM.dds
+
+-2.0mb
+342kb orange-mid-large-complete.dds
+342kb orange-top-COMPLETE.dds
 1.366mb orange-top-bump_NRM.dds
 
 ### Status 2.3.99.1
