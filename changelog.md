@@ -20,26 +20,47 @@
 ### Summary 2.3.99.1
 
 * Phase II pass:
-  * localization
+  * localization complete
   * parts pass complete (including tanks)
 * <ghostparts.cfg> is provided for now for testing. This file will not active for version 2.4.0.0-release.
 * Can now search for `sse` or `km` in the editor search bar to find all parts in this pack.
 * DRAG_CUBES
-* ModuleCargoPart
-* fuel switchers
-  * Initial Compatibility pass
 
-### Changes
+### Changes 2.3.99.1
 
 This is the next in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
 
-corrected BulkheadProfiles for 1.875m tanks from size1 to size1p5
+### Parts 2.3.99.1
 
-move
-KM_Stager into <KlockheadMartian.cfg>
-KM_PreLaunchEffect_SmkS into <KlockheadMartian.cfg>
+* Rename part files to match part names
+* Rename parts to match naming scheme
+* corrected BulkheadProfiles for 1.875m tanks from size1 to size1p5
+* Inital pass on all remaining parts completed
+  * sse-tank-bottom-3
+  * sse-tank-bottom-15
+  * sse-tank-mid-1
+  * sse-tank-mid-2
+  * sse-tank-mid-3
+  * sse-tank-mid-15
+  * sse-tank-mid-small-1
+  * sse-tank-mid-small-2
+  * sse-tank-mid-small-3
+  * sse-tank-mid-small-15
+  * sse-tank-top-1
+  * sse-tank-top-2
+  * sse-tank-top-3
+  * sse-tank-top-15
+  * sse-tank-bottom-1
+  * sse-tank-bottom-2
 
-### Asset Updates
+### Compatibility 2.3.99.1
+
+* Move out from part.cfg's
+* Create <KlockheadMartian.cfg>
+  * KM_Stager into <KlockheadMartian.cfg>
+  * KM_PreLaunchEffect_SmkS into <KlockheadMartian.cfg>
+
+### Asset Updates 2.3.99.1
 
 * create Assets/ folder
 * convert from mesh to MODEL
@@ -66,64 +87,6 @@ KM_PreLaunchEffect_SmkS into <KlockheadMartian.cfg>
 * relocate part.cfg to Parts/Tanks/
 * closes #55 - Asset Updates
 
-
-* Parts
-  * inital pass on all remaining parts completed
-    * sse-tank-bottom-3
-    * sse-tank-bottom-15
-    * sse-tank-mid-1
-    * sse-tank-mid-2
-    * sse-tank-mid-3
-    * sse-tank-mid-15
-    * sse-tank-mid-small-1
-    * sse-tank-mid-small-2
-    * sse-tank-mid-small-3
-    * sse-tank-mid-small-15
-    * sse-tank-top-1
-    * sse-tank-top-2
-    * sse-tank-top-3
-    * sse-tank-top-15
-    * sse-tank-bottom-1
-    * sse-tank-bottom-2
-
-### Parts
-
-* Add
-  * <ghostParts.cfg> v1.3.0.0
-* Rename part files to match part names
-  * part.cfg -> sse-engine-bigbang-1.cfg
-  * part.cfg -> sse-engine-bigbang-2.cfg
-  * part.cfg -> sse-engine-oms-double.cfg
-  * part.cfg -> sse-engine-oms-single.cfg
-* Rename parts to match naming scheme
-  * double-oms --> sse-engine-oms-double
-  * oms --> sse-engine-oms-single
-  * km_ma0 --> sse-multiadaptatron-0
-  * km_ma1 --> sse-multiadaptatron-1
-  * sh1 --> sse-shoulder-1
-  * kmssh0 --> sse-shoulder-small-0
-  * kmssh1 --> sse-shoulder-small-1
-  * km_se0 --> sse-engine-0
-  * km_se0-oms --> sse-engine-0-oms
-  * km_ssme_rs25s --> sse-engine-1-a
-  * km_ssme_rs25ss --> sse-engine-1-s
-  * se2 --> sse-engine-2
-  * km_se3 --> sse-engine-3
-  * km_se4L --> sse-engine-4
-  * KM_sparkler --> sse-sparkler
-  * km-tank-top-? --> sse-tank-top-?
-  * km-tank-mid-? --> sse-tank-mid-?
-  * km-tank-mid-small-? --> sse-tank-mid-small-?
-  * km-tank-bottom-? --> sse-tank-bottom-?
-* Fix
-  * Missing closes PART brace
-    * Parts/Shoulders/part.cfg
-    * Parts/Multi Adapter/ma1.cfg
-    * Parts/Multi Adapter/ma0.cfg
-    * Parts/Smallshoulders/Sh1.cfg
-    * Parts/Smallshoulders/Sh0.cfg
-* closes #54 - Fix part.cfgs
-
 ### docs/ 2.3.99.1
 
 * Move
@@ -141,7 +104,7 @@ KM_PreLaunchEffect_SmkS into <KlockheadMartian.cfg>
   * [Why.md] v1.1.0.0
 * updates #56 - docs/
 
-### Localization
+### Localization 2.3.99.1
 
 * Update
   * [SpaceShuttleEngines.cfg] v1.0.1.0
@@ -154,13 +117,13 @@ KM_PreLaunchEffect_SmkS into <KlockheadMartian.cfg>
   * closes #18 - English <us-en.cfg>
   * closes #35 - Part Localization
 
-
-
-
-
 ### Status 2.3.99.1
 
 * Issues
+  * closes #63 - Space Shuttle Engines (SSE) 2.3.99.1-prerelease `<Thank you dtobi and sarbian>`
+  * closes #64 - 2.3.99.1 Verify Legal Mumbo Jumbo
+  * closes #65 - 2.3.99.1 Update Documentation
+  * closes #66 - 2.3.99.1 Update Social Media
 
 ---
 
