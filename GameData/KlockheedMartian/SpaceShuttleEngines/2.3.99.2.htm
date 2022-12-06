@@ -38,142 +38,80 @@ edition</h1>
 
 <h2 id="summary">Summary</h2>
 <ul>
-<li>Phase III pass:
+<li>Phase III pass (partial):
 <ul>
-<li>localization complete</li>
-<li>parts pass complete (including tanks)</li>
+<li>localization of part modules</li>
+<li>linting</li>
+<li>drag_cube pass</li>
+<li>ModuleCargoPart</li>
+<li>completed on:
+<ul>
+<li>sse-engine-3</li>
+<li>sse-engine-4</li>
+<li>sse-engine-bigbang-1</li>
 </ul></li>
-<li>&lt;ghostparts.cfg&gt; is provided for now for testing. This file
-will not active for version 2.4.0.0-release.</li>
-<li>Can now search for <code>sse</code> or <code>km</code> in the editor
+</ul></li>
+<li>update FX assets</li>
+<li>removed additional duplicated textures</li>
+<li>&lt;ghostparts.cfg&gt; is provided. This file will not active for
+version 2.4.0.0-release.</li>
+<li>Can search for <code>sse</code> or <code>km</code> in the editor
 search bar to find all parts in this pack.</li>
-<li>DRAG_CUBES</li>
 </ul>
-<h3 id="changes">Changes</h3>
+<h3 id="changes-23992">Changes 2.3.99.2</h3>
 <p>This is the next in a series of updates to this addon. Each update
 will update some of the parts and patches so that instead of one massive
 update I can update the addon in a more manageable way.</p>
-<h3 id="parts">Parts</h3>
+<h3 id="parts-23992">Parts 2.3.99.2</h3>
 <ul>
-<li>Rename part files to match part names</li>
-<li>Rename parts to match naming scheme</li>
-<li>corrected BulkheadProfiles for 1.875m tanks from size1 to
-size1p5</li>
-<li>Inital pass on all remaining parts completed
+<li>additonal linting</li>
+<li>drag_cube pass</li>
+<li>ModuleCargoPart</li>
+<li>completed on:
 <ul>
-<li>sse-tank-bottom-3</li>
-<li>sse-tank-bottom-15</li>
-<li>sse-tank-mid-1</li>
-<li>sse-tank-mid-2</li>
-<li>sse-tank-mid-3</li>
-<li>sse-tank-mid-15</li>
-<li>sse-tank-mid-small-1</li>
-<li>sse-tank-mid-small-2</li>
-<li>sse-tank-mid-small-3</li>
-<li>sse-tank-mid-small-15</li>
-<li>sse-tank-top-1</li>
-<li>sse-tank-top-2</li>
-<li>sse-tank-top-3</li>
-<li>sse-tank-top-15</li>
-<li>sse-tank-bottom-1</li>
-<li>sse-tank-bottom-2</li>
+<li>sse-engine-3</li>
+<li>sse-engine-4</li>
+<li>sse-engine-bigbang-1</li>
 </ul></li>
 </ul>
-<h3 id="compatibility">Compatibility</h3>
+<h3 id="compatibility-23992">Compatibility 2.3.99.2</h3>
 <ul>
-<li>Move out from part.cfg's</li>
-<li>Create &lt;KlockheadMartian.cfg&gt;
+<li>continue to move out from part.cfg's
 <ul>
 <li>KM_Stager into &lt;KlockheadMartian.cfg&gt;</li>
+<li>GimbalTrim into &lt;KlockheadMartian.cfg&gt;</li>
 <li>KM_PreLaunchEffect_SmkS into &lt;KlockheadMartian.cfg&gt;</li>
 </ul></li>
 </ul>
-<h3 id="asset-updates">Asset Updates</h3>
+<h3 id="localization-23992">Localization 2.3.99.2</h3>
 <ul>
-<li>create Assets/ folder</li>
-<li>convert from mesh to MODEL</li>
-<li>rename
+<li>New strings added to &lt;en-us.cfg&gt; v1.0.1.0</li>
+<li>updates #18 - English &lt;us-en.cfg&gt;</li>
+<li>updates #17 - Localization - Master</li>
+</ul>
+<h3 id="asset-updates-23992">Asset Updates 2.3.99.2</h3>
 <ul>
-<li>models to unique names</li>
-<li>Rename model files to unique names</li>
-<li>textures to unique names</li>
-</ul></li>
-<li>update
+<li>update FX assets
 <ul>
 <li>model pointers (.png et al to .dds)</li>
-<li>model texture pointers to new names</li>
 </ul></li>
-<li>relocate assets to Assets/</li>
 <li>eliminate
 <ul>
-<li>remove duplicates textures/models
+<li>additional duplicates
 <ul>
-<li>&lt;cloud.dds&gt; 22kb</li>
-<li>&lt;orange-top-COMPLETE.dds&gt; 342kb</li>
-<li>&lt;orange-mid-large-complete.dds&gt; 342kb</li>
-<li>&lt;orange-top-COMPLETE.dds&gt; 342kb</li>
-<li>&lt;orange-top.dds&gt; 683kb</li>
-<li>&lt;orange-top-bump_NRM.dds&gt; 1.366mb</li>
-<li>&lt;orange-top-bump_NRM.dds&gt; 1.366mb</li>
-<li>total reduction of ~7.944mb
-<ul>
-<li>current total: 4.35 mb</li>
-<li>previous total: 3.594mb</li>
+<li>&lt;dualomv7-alpha.dds&gt; 86kb</li>
+<li>&lt;dualomv7-heat.dds&gt; 11kb</li>
+<li>&lt;se2 - Copy.mux&gt; 249kb</li>
 </ul></li>
-</ul></li>
-</ul></li>
-<li>relocate part.cfg to Parts/Tanks/</li>
-<li>closes #55 - Asset Updates</li>
-</ul>
-<h3 id="docs">docs/</h3>
-<ul>
-<li>Move
-<ul>
-<li>@thumbs to docs/</li>
-</ul></li>
-<li>Update
-<ul>
-<li>[<code>_config.yml</code>]</li>
-<li>[Attribution.md] v1.0.7.1</li>
-<li>[ManualInstallation.md] v1.1.8.0</li>
-<li>[404.md] v1.0.3.2</li>
-<li>[LegalMumboJumbo.md] v1.0.5.1</li>
-<li>[Localizations.md] v1.1.7.0</li>
-<li>[Marketing.md] v1.0.1.0</li>
-<li>[Notices.md] v1.0.1.0</li>
-<li>[Part-Catalog.md] v1.1.4.1</li>
-<li>[Why.md] v1.1.0.0</li>
-</ul></li>
-<li>updates #56 - docs/</li>
-</ul>
-<h3 id="localization">Localization</h3>
-<ul>
-<li>Update
-<ul>
-<li>[SpaceShuttleEngines.cfg] v1.0.1.0
-<ul>
-<li>adds localized tags to parts</li>
-</ul></li>
-<li>Localization/
-<ul>
-<li>&lt;en-us.cfg&gt;</li>
-<li>[readme.md] v2.1.2.0</li>
-<li>[quickstart.md] v1.0.1.1</li>
-</ul></li>
-<li>updates #17 - Localization - Master</li>
-<li>closes #18 - English &lt;us-en.cfg&gt;</li>
-<li>closes #35 - Part Localization</li>
 </ul></li>
 </ul>
-<h3 id="status">Status</h3>
+<h3 id="status-23992">Status 2.3.99.2</h3>
 <ul>
 <li>Issues
 <ul>
-<li>closes #63 - Space Shuttle Engines (SSE) 2.3.99.2-prerelease
-<code>&lt;Thank you dtobi and sarbian&gt;</code></li>
-<li>closes #64 - 2.3.99.2 Verify Legal Mumbo Jumbo</li>
-<li>closes #65 - 2.3.99.2 Update Documentation</li>
-<li>closes #66 - 2.3.99.2 Update Social Media</li>
+<li>closes #69 - Space Shuttle Engines (SSE) 2.3.99.2-prerelease
+<code>&lt;Thank you dtobi and sarbian&gt;</code> edition</li>
+<li>closes #70 - 2.3.99.2 Additional Tasks</li>
 </ul></li>
 </ul>
 <hr />
@@ -194,7 +132,7 @@ and news</li>
 title="Issue Tracker">Known Issues</a> for known issues and feature
 requests</li>
 </ul>
-<h2 id="localization-1">Localization</h2>
+<h2 id="localization">Localization</h2>
 <blockquote>
 <ul>
 <li><img
