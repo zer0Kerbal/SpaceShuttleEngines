@@ -19,14 +19,62 @@
 
 ### Summary 2.3.99.2
 
-* Phase III pass:
-  * localization complete
-  * parts pass complete (including tanks)
-* <ghostparts.cfg> is provided for now for testing. This file will not active for version 2.4.0.0-release.
-* Can now search for `sse` or `km` in the editor search bar to find all parts in this pack.
+* Phase III pass (partial):
+  * localization of part modules
+  * linting
+  * drag_cube pass
+  * ModuleCargoPart
+  * completed on:
+    * sse-engine-3
+    * sse-engine-4
+    * sse-engine-bigbang-1
 * update FX assets
+* removed additional duplicated textures
+* <ghostparts.cfg> is provided. This file will not active for version 2.4.0.0-release.
+* Can search for `sse` or `km` in the editor search bar to find all parts in this pack.
 
 ### Changes 2.3.99.2
+
+This is the next in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+
+### Parts 2.3.99.2
+
+* additonal linting
+* drag_cube pass
+* ModuleCargoPart
+* completed on:
+  * sse-engine-3
+  * sse-engine-4
+  * sse-engine-bigbang-1
+
+### Compatibility 2.3.99.2
+
+* continue to move out from part.cfg's
+  * KM_Stager into <KlockheadMartian.cfg>
+  * GimbalTrim into <KlockheadMartian.cfg>
+  * KM_PreLaunchEffect_SmkS into <KlockheadMartian.cfg>
+
+### Localization 2.3.99.2
+
+* New strings added to <en-us.cfg> v1.0.1.0
+* updates #18 - English <us-en.cfg>
+* updates #17 - Localization - Master
+
+### Asset Updates 2.3.99.2
+
+* update FX assets
+  * model pointers (.png et al to .dds)
+* eliminate
+  * additional duplicates
+    * <dualomv7-alpha.dds> 86kb
+    * <dualomv7-heat.dds> 11kb
+    * <se2 - Copy.mux> 249kb
+
+### Status 2.3.99.2
+
+* Issues
+  * closes #69 - Space Shuttle Engines (SSE) 2.3.99.2-prerelease `<Thank you dtobi and sarbian>` edition
+  * closes #70 - 2.3.99.2 Additional Tasks
 
 ---
 
@@ -39,13 +87,12 @@
 
 ### Summary 2.3.99.1
 
-* Phase III pass:
+* Phase II pass:
   * localization complete
   * parts pass complete (including tanks)
 * <ghostparts.cfg> is provided for now for testing. This file will not active for version 2.4.0.0-release.
 * Can now search for `sse` or `km` in the editor search bar to find all parts in this pack.
-* remove additional duplicated textures
-* update FX assets
+* DRAG_CUBES
 
 ### Changes 2.3.99.1
 
@@ -57,7 +104,22 @@ This is the next in a series of updates to this addon. Each update will update s
 * Rename parts to match naming scheme
 * corrected BulkheadProfiles for 1.875m tanks from size1 to size1p5
 * Inital pass on all remaining parts completed
-
+  * sse-tank-bottom-3
+  * sse-tank-bottom-15
+  * sse-tank-mid-1
+  * sse-tank-mid-2
+  * sse-tank-mid-3
+  * sse-tank-mid-15
+  * sse-tank-mid-small-1
+  * sse-tank-mid-small-2
+  * sse-tank-mid-small-3
+  * sse-tank-mid-small-15
+  * sse-tank-top-1
+  * sse-tank-top-2
+  * sse-tank-top-3
+  * sse-tank-top-15
+  * sse-tank-bottom-1
+  * sse-tank-bottom-2
 
 ### Compatibility 2.3.99.1
 
@@ -74,15 +136,22 @@ This is the next in a series of updates to this addon. Each update will update s
   * models to unique names
   * Rename model files to unique names
   * textures to unique names
-* update FX assets
+* update
   * model pointers (.png et al to .dds)
   * model texture pointers to new names
 * relocate assets to Assets/
 * eliminate
-  * additional duplicates
-    * <dualomv7-alpha.dds> 86kb
-    * <dualomv7-heat.dds> 11kb
-    * <se2 - Copy.mux> 249kb
+  * remove duplicates textures/models
+    * <cloud.dds> 22kb
+    * <orange-top-COMPLETE.dds> 342kb
+    * <orange-mid-large-complete.dds> 342kb
+    * <orange-top-COMPLETE.dds> 342kb
+    * <orange-top.dds> 683kb
+    * <orange-top-bump_NRM.dds> 1.366mb
+    * <orange-top-bump_NRM.dds> 1.366mb
+    * total reduction of ~7.944mb
+      * current total: 4.35 mb
+      * previous total: 3.594mb
 * relocate part.cfg to Parts/Tanks/
 * closes #55 - Asset Updates
 
