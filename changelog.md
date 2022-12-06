@@ -10,6 +10,26 @@
 | spacedock  | (https://spacedock.info/mod/3009)                                 |
 | ckan       | SpaceShuttleEngines                                               |
 
+## Version 2.3.99.2-prerelease - `<Thank you dtobi and sarbian>` edition
+
+* Released
+  * 04 Dec 2022
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
+
+### Summary 2.3.99.2
+
+* Phase III pass:
+  * localization complete
+  * parts pass complete (including tanks)
+* <ghostparts.cfg> is provided for now for testing. This file will not active for version 2.4.0.0-release.
+* Can now search for `sse` or `km` in the editor search bar to find all parts in this pack.
+* update FX assets
+
+### Changes 2.3.99.2
+
+---
+
 ## Version 2.3.99.1-prerelease - `<Thank you dtobi and sarbian>` edition
 
 * Released
@@ -19,12 +39,13 @@
 
 ### Summary 2.3.99.1
 
-* Phase II pass:
+* Phase III pass:
   * localization complete
   * parts pass complete (including tanks)
 * <ghostparts.cfg> is provided for now for testing. This file will not active for version 2.4.0.0-release.
 * Can now search for `sse` or `km` in the editor search bar to find all parts in this pack.
-* DRAG_CUBES
+* remove additional duplicated textures
+* update FX assets
 
 ### Changes 2.3.99.1
 
@@ -36,22 +57,7 @@ This is the next in a series of updates to this addon. Each update will update s
 * Rename parts to match naming scheme
 * corrected BulkheadProfiles for 1.875m tanks from size1 to size1p5
 * Inital pass on all remaining parts completed
-  * sse-tank-bottom-3
-  * sse-tank-bottom-15
-  * sse-tank-mid-1
-  * sse-tank-mid-2
-  * sse-tank-mid-3
-  * sse-tank-mid-15
-  * sse-tank-mid-small-1
-  * sse-tank-mid-small-2
-  * sse-tank-mid-small-3
-  * sse-tank-mid-small-15
-  * sse-tank-top-1
-  * sse-tank-top-2
-  * sse-tank-top-3
-  * sse-tank-top-15
-  * sse-tank-bottom-1
-  * sse-tank-bottom-2
+
 
 ### Compatibility 2.3.99.1
 
@@ -68,22 +74,15 @@ This is the next in a series of updates to this addon. Each update will update s
   * models to unique names
   * Rename model files to unique names
   * textures to unique names
-* update
+* update FX assets
   * model pointers (.png et al to .dds)
   * model texture pointers to new names
 * relocate assets to Assets/
 * eliminate
-  * remove duplicates textures/models
-    * <cloud.dds> 22kb
-    * <orange-top-COMPLETE.dds> 342kb
-    * <orange-mid-large-complete.dds> 342kb
-    * <orange-top-COMPLETE.dds> 342kb
-    * <orange-top.dds> 683kb
-    * <orange-top-bump_NRM.dds> 1.366mb
-    * <orange-top-bump_NRM.dds> 1.366mb
-    * total reduction of ~7.944mb
-      * current total: 4.35 mb
-      * previous total: 3.594mb
+  * additional duplicates
+    * <dualomv7-alpha.dds> 86kb
+    * <dualomv7-heat.dds> 11kb
+    * <se2 - Copy.mux> 249kb
 * relocate part.cfg to Parts/Tanks/
 * closes #55 - Asset Updates
 
