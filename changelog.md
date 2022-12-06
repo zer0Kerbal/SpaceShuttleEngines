@@ -54,6 +54,12 @@ This is the next in a series of updates to this addon. Each update will update s
   * GimbalTrim into <KlockheadMartian.cfg>
   * KM_PreLaunchEffect_SmkS into <KlockheadMartian.cfg>
 
+### Localization 2.3.99.2
+
+* New strings added to <en-us.cfg> v1.0.1.0
+* updates #18 - English <us-en.cfg>
+* updates #17 - Localization - Master
+
 ### Asset Updates 2.3.99.2
 
 * update FX assets
@@ -67,7 +73,8 @@ This is the next in a series of updates to this addon. Each update will update s
 ### Status 2.3.99.2
 
 * Issues
-
+  * closes #69 - Space Shuttle Engines (SSE) 2.3.99.2-prerelease `<Thank you dtobi and sarbian>` edition
+  * closes #70 - 2.3.99.2 Additional Tasks
 
 ---
 
