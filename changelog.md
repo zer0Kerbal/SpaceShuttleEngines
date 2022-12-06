@@ -40,8 +40,12 @@
 ### Summary 2.3.99.1
 
 * Phase III pass:
-  * localization complete
-  * parts pass complete (including tanks)
+  * linting
+  * drag_cube pass
+  * ModuleCargoPart
+    * sse-engine-3
+    * sse-engine-4
+
 * <ghostparts.cfg> is provided for now for testing. This file will not active for version 2.4.0.0-release.
 * Can now search for `sse` or `km` in the editor search bar to find all parts in this pack.
 * remove additional duplicated textures
