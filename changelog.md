@@ -10,6 +10,74 @@
 | spacedock  | (https://spacedock.info/mod/3009)                                 |
 | ckan       | SpaceShuttleEngines                                               |
 
+## Version 2.3.99.3-prerelease - `<Thank you dtobi and sarbian>` edition
+
+* Released
+  * 18 Feb 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 2.3.99.3
+
+* Phase III pass (partial):
+  * localization of part modules
+  * linting
+  * drag_cube pass
+  * ModuleCargoPart
+  * completed on:
+    * sse-engine-3
+    * sse-engine-4
+    * sse-engine-bigbang-1
+* update FX assets
+* removed additional duplicated textures
+* <ghostparts.cfg> is provided. This file will not active for version 2.4.0.0-release.
+* Can search for `sse` or `km` in the editor search bar to find all parts in this pack.
+
+### Changes 2.3.99.3
+
+This is the next in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+
+### Parts 2.3.99.3
+
+* additonal linting
+* drag_cube pass
+* ModuleCargoPart
+* completed on:
+  * sse-engine-3
+  * sse-engine-4
+  * sse-engine-bigbang-1
+
+### Compatibility 2.3.99.3
+
+* continue to move out from part.cfg's
+  * KM_Stager into <KlockheadMartian.cfg>
+  * GimbalTrim into <KlockheadMartian.cfg>
+  * KM_PreLaunchEffect_SmkS into <KlockheadMartian.cfg>
+
+### Localization 2.3.99.3
+
+* New strings added to <en-us.cfg> v1.0.1.0
+* updates #18 - English <us-en.cfg>
+* updates #17 - Localization - Master
+
+### Asset Updates 2.3.99.3
+
+* update FX assets
+  * model pointers (.png et al to .dds)
+* eliminate
+  * additional duplicates
+    * <dualomv7-alpha.dds> 86kb
+    * <dualomv7-heat.dds> 11kb
+    * <se2 - Copy.mux> 249kb
+
+### Status 2.3.99.3
+
+* Issues
+  * closes #73 - Space Shuttle Engines (SSE) 2.3.99.3-prerelease `<Thank you dtobi and sarbian>` edition
+  * closes #74 - 2.3.99.3 Additional Tasks
+
+---
+
 ## Version 2.3.99.2-prerelease - `<Thank you dtobi and sarbian>` edition
 
 * Released
