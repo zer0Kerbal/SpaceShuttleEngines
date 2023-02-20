@@ -22,6 +22,39 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/3009)                                 |
 | ckan       | SpaceShuttleEngines                                               |
 
+## Version 2.3.99.3-prerelease - `<Thank you dtobi and sarbian>` edition
+
+* Released
+  * 18 Feb 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 2.3.99.3
+
+This is the next in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
+
+* Update sse-engine-4 (Aerospike)
+  * from model nodes to config nodes
+  * make the L=R
+  * fix several issues in the part config
+* Add two new engines
+  * 1.25m Aerospike
+  * 3.75m Aerospike
+* New: Missing transform in models ('smokePoint'), this is a model issue which I cannot fix.
+* <ghostparts.cfg> is provided. This file will not active for version 2.4.0.0-release.
+* Can search for `sse` or `km` in the editor search bar to find all parts in this pack.
+
+* Issues
+  * closes #73 - Space Shuttle Engines (SSE) 2.3.99.3-prerelease `<Thank you dtobi and sarbian>` edition
+  * closes #74 - 2.3.99.3 Additional Tasks
+  * updates #79 - [LOG ERR] missing PrefabParticleFX: Cannot find transform of name 'smokePoint'
+  * closes #78 - [FEATURE] Add text to ENG-4 to reflect that there are two nozzles so double the thrust
+  * closes #77 - [FEATURE] Add size3 (3.75) version of Engine 4
+  * closes #76 - [FEATURE] Add size1 (1.25m) version of Engine 4
+  * closes #75 - [BUG] Engine 4 config errors
+
+---
+
 ## Version 2.3.99.2-prerelease - `<Thank you dtobi and sarbian>` edition
 
 * Released
@@ -786,3 +819,4 @@ This is the first in a series of updates to this addon. Each update will update 
 * April 19, 2013
 
 ---
+
