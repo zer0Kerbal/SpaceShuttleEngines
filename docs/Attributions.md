@@ -6,11 +6,14 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!--
-Attributions.md v1.0.7.1
+Attributions.md v1.1.0.0
 Space Shuttle Engines (SSE)
+created: 30 Jul 2022
+updated: 17 Feb 2023
+
+TEMPLATE: Attributions.md v1.0.8.0
 created: 01 Feb 2022
-updated: 03 Jun 2022
--->
+updated: 06 Feb 2023 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
@@ -35,6 +38,8 @@ updated: 03 Jun 2022
   * Duxwing for copy-editing SSE's and SmartParts front page and README.
   * wasmic and Firov for improving the game balance of the engines
 
+### Reviews
+
 ### Flag(s)
 
 <ul>
@@ -51,6 +56,13 @@ updated: 03 Jun 2022
 
 * none
 
+### Translations
+
+<ul>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
+  <li><small>Additions and corrections welcome!</small></li>
+</ul>
+
 ### Special Thanks
 
 * Thanks to Floppster for creating the initial Tweakscale configs (great work!)
@@ -61,13 +73,6 @@ updated: 03 Jun 2022
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70516-captainkipard/"><img alt="Captain Kipard" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/itsame.png.3227b08e54fc9e3eaa0c6c2ad8e9ad07.thumb.png.5d3a3eb0344a23048ea58826e47b9781.png" width="50px" height="50px" > Captain Kipard</a> for the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/85372-*/"> Mod Development Links Compilation</a> and other tutorials.</li>
   <li>Squad, for making such a great game!</li>
   <li>Everyone else who made modding tutorials.</li>
-</ul>
-
-### Translations
-
-<ul>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
-  <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
 ### Art Asset(s)
