@@ -19,62 +19,27 @@
 
 ### Summary 2.3.99.3
 
-* Phase III pass (partial):
-  * localization of part modules
-  * linting
-  * drag_cube pass
-  * ModuleCargoPart
-  * completed on:
-    * sse-engine-3
-    * sse-engine-4
-    * sse-engine-bigbang-1
-* update FX assets
-* removed additional duplicated textures
-* <ghostparts.cfg> is provided. This file will not active for version 2.4.0.0-release.
-* Can search for `sse` or `km` in the editor search bar to find all parts in this pack.
-
-### Changes 2.3.99.3
-
 This is the next in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
 
-### Parts 2.3.99.3
-
-* additonal linting
-* drag_cube pass
-* ModuleCargoPart
-* completed on:
-  * sse-engine-3
-  * sse-engine-4
-  * sse-engine-bigbang-1
-
-### Compatibility 2.3.99.3
-
-* continue to move out from part.cfg's
-  * KM_Stager into <KlockheadMartian.cfg>
-  * GimbalTrim into <KlockheadMartian.cfg>
-  * KM_PreLaunchEffect_SmkS into <KlockheadMartian.cfg>
-
-### Localization 2.3.99.3
-
-* New strings added to <en-us.cfg> v1.0.1.0
-* updates #18 - English <us-en.cfg>
-* updates #17 - Localization - Master
-
-### Asset Updates 2.3.99.3
-
-* update FX assets
-  * model pointers (.png et al to .dds)
-* eliminate
-  * additional duplicates
-    * <dualomv7-alpha.dds> 86kb
-    * <dualomv7-heat.dds> 11kb
-    * <se2 - Copy.mux> 249kb
-
-### Status 2.3.99.3
+* Update sse-engine-4 (Aerospike)
+  * from model nodes to config nodes
+  * make the L=R
+  * fix several issues in the part config
+* Add two new engines
+  * 1.25m Aerospike
+  * 3.75m Aerospike
+* New: Missing transform in models ('smokePoint'), this is a model issue which I cannot fix.
+* <ghostparts.cfg> is provided. This file will not active for version 2.4.0.0-release.
+* Can search for `sse` or `km` in the editor search bar to find all parts in this pack.
 
 * Issues
   * closes #73 - Space Shuttle Engines (SSE) 2.3.99.3-prerelease `<Thank you dtobi and sarbian>` edition
   * closes #74 - 2.3.99.3 Additional Tasks
+  * updates #79 - [LOG ERR] missing PrefabParticleFX: Cannot find transform of name 'smokePoint'
+  * closes #78 - [FEATURE] Add text to ENG-4 to reflect that there are two nozzles so double the thrust
+  * closes #77 - [FEATURE] Add size3 (3.75) version of Engine 4
+  * closes #76 - [FEATURE] Add size1 (1.25m) version of Engine 4
+  * closes #75 - [BUG] Engine 4 config errors
 
 ---
 
