@@ -47,7 +47,7 @@ based upon work by LisiasT -->
 
 Other trademarks and registered trademarks are the property of the respective trademark holders.
 
-© 2011-2022 zer0Kerbal™
+© 2011-2023 zer0Kerbal™
 
 > [dtobi](https://forum.kerbalspaceprogram.com/index.php?/topic/51197-11x-space-shuttle-engines-2016-07-03/#) Quote
 >
