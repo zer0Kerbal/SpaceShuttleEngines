@@ -41,7 +41,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 * eleven (11) engine parts
   * X0, X2 and X3 Space Shuttle Engines
-  * X4 Linear Aerospike Engine
+  * X4 Linear Aerospike Engine in three sized (1.25m, 2.5m and 3.75m)
   * Orbital Maneuvering System (OMS) Engine
   * Double - Orbital Maneuvering System (OMS) Engine
   * Shuttle Shoulders attachment point for OMS
