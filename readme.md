@@ -155,7 +155,10 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 ### Supports
 
 * [Procedural Wings][pw]
-* [B9 Part Switch][b9ps]
+  * [B9 Part Switch][b9ps]
+* Fuel Switchers
+  * [Modular Fuel Tanks](http://forum.kerbalspaceprogram.com/index.php?/topic/58235-*/)
+  * [B9 Fuel Switch][b9ps]
 * [ModularManagement (MM)][MM] or [Module Manager][omm]
 
 ### Tags
