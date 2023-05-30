@@ -4,19 +4,22 @@ title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- ManualInstallation.md v1.1.8.1
+<!-- ManualInstallation.md v1.0.1.0
 Space Shuttle Engines (SSE)
-created: 01 Oct 2019
-updated: 29 Jul 2022 -->
+created: 05 Aug 2022
+updated: 29 May 2023
 
-<!-- based upon work by Lisias -->
+TEMPLATE: ManualInstallation.md v1.1.9.1
+created: 01 Feb 2022
+updated: 26 Apr 2023
 
-# Space Shuttle Engines (SSE)
+based upon work by Lisias -->
+
+## [Space Shuttle Engines (SSE)][mod]
 
 [Home](./index.md)
 
-Space Shuttle Engine (SSE) pack by Klockheed Martian Engine Manufacturer - for Kerbal Space Program.
+[Space Shuttle Engines (SSE)](https://curseforge.com/kerbal/ksp-mods/SpaceShuttleEngines) adds thirty-six (36) space shuttle themed parts by [Klockheed Martian Ltd (KML)](https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
 
 ## Installation Instructions
 
@@ -52,7 +55,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [KlockheedMartian]
-      + [KlockheedMartianLtd]
+      + [KlockheedMartianLtd][kml]
         + [Agencies]
           ...
         + [Flags]
@@ -60,7 +63,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
         + [Localization]
           ...
         ...
-      + [SpaceShuttleEngines]
+      + [SpaceShuttleEngines][mod]
         + [Assets]
           ...
         + [Compatibility]
@@ -75,8 +78,8 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
           ...
         * #.#.#.#.htm
         * Attributions.htm
-        * changelog.md
         * CC-BY-ND-4.0.txt
+        * changelog.md
         * ManualInstallation.htm
         * readme.htm
         * SpaceShuttleEngines.version
@@ -88,6 +91,11 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 ### Dependencies
 
-* [Klockheed Martian Ltd (KM/L)][KML]
+* [Klockheed Martian Ltd (KML)][KML]
 
-[KML]: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/ "Klockheed Martian (KM)"
+[KML]: https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd "Klockheed Martian (KM)"
+
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/SpaceShuttleEngiens "Space Shuttle Engines (SSE)"

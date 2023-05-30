@@ -22,6 +22,82 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/3009)                                 |
 | ckan       | SpaceShuttleEngines                                               |
 
+## Version 2.3.99.4-prerelease - `<Thank you dtobi>` edition
+
+* Released
+  * 29 May 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Dependencies:
+    * [Klockheed Martian Ltd (KML)](https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
+  * search for `sse` or `km` in the editor search bar to find all parts in this pack.
+  * <ghostparts.cfg> is provided. This file will not active for version 2.4.0.0-release.
+  * Missing transform in models ('smokePoint'), this is a model issue which I probably cannot fix.
+
+### Change Summary 2.3.99.4
+
+* All 36 parts are included
+* NEW: 1.875m Aerospike engine
+* Update [FuelTanksPlus.cfg]
+* remove superfluous strings and add new tag strings
+* Add: [B9Fuelswitch.cfg] and [ModularFuelTanks.cfg]
+* Update: [KlockheedMartianTools.cfg]
+
+### Changes 2.3.99.4
+
+#### Parts 2.3.99.4
+
+* Add
+  * 1.875m Aerospike engine
+    * TechRequired = heavierRocketry
+    * entryCost = 24000
+    * cost = 3050
+    * mass = 2.93
+    * maxThrust = 375
+    * ISPv = 390
+    * ISPs = 385
+* Fix
+* Lint
+* Reformat
+* Errors
+* Correct
+  * [ModuleGimbal]
+    * gimbalResponseSpeed --> gimbalResponseSpeed
+
+#### Compatibility 2.3.99.4
+
+* Add
+  * [B9Fuelswitch.cfg] v1.0.0.0
+  * [ModularFuelTanks.cfg] v1.0.0.0
+* Update
+  * [KlockheedMartianTools.cfg] v1.0.2.0
+* Rename
+  * [KlockheedMartian.cfg] --> [KlockheedMartianTools.cfg] v1.0.2.0 (formeral 
+
+#### Config 2.3.99.4
+
+* Update
+  * [SpaceShuttleEngines.cfg] v1.0.4.0
+  * [ghostParts.cfg] v2.3.99.4
+
+#### Localization 2.3.99.4
+
+* Update
+  * remove superfluous strings
+  * add new tag strings
+  * [en-us.cfg] v1.0.3.0
+
+### Status 2.3.99.4
+
+* Issues
+  * closes #81 - Space Shuttle Engines (SSE) 2.3.99.4-prerelease `<Thank you dtobi>` edition
+  * closes #82 - 2.3.99.4 Additional Tasks
+  * updates #79 - [LOG ERR] missing PrefabParticleFX: Cannot find transform of name 'smokePoint'
+
+---
+
 ## Version 2.3.99.3-prerelease - `<Thank you dtobi and sarbian>` edition
 
 * Released
