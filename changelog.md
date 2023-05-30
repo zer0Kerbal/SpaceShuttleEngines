@@ -19,10 +19,70 @@
 
 * 📌 Pinned
   * Dependencies:
-    * [Klockheed Martian Ltd (KM/L)](https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
+    * [Klockheed Martian Ltd (KML)](https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
   * search for `sse` or `km` in the editor search bar to find all parts in this pack.
   * <ghostparts.cfg> is provided. This file will not active for version 2.4.0.0-release.
-  * Missing transform in models ('smokePoint'), this is a model issue which I cannot fix.
+  * Missing transform in models ('smokePoint'), this is a model issue which I probably cannot fix.
+
+### Change Summary 2.3.99.4
+
+* All 36 parts are included
+* NEW: 1.875m Aerospike engine
+* Update [FuelTanksPlus.cfg]
+* remove superfluous strings and add new tag strings
+* Add: [B9Fuelswitch.cfg] and [ModularFuelTanks.cfg]
+* Update: [KlockheedMartianTools.cfg]
+
+### Changes 2.3.99.4
+
+#### Parts 2.3.99.4
+
+* Add
+  * 1.875m Aerospike engine
+    * TechRequired = heavierRocketry
+    * entryCost = 24000
+    * cost = 3050
+    * mass = 2.93
+    * maxThrust = 375
+    * ISPv = 390
+    * ISPs = 385
+* Fix
+* Lint
+* Reformat
+* Errors
+* Correct
+  * [ModuleGimbal]
+    * gimbalResponseSpeed --> gimbalResponseSpeed
+
+#### Compatibility 2.3.99.4
+
+* Add
+  * [B9Fuelswitch.cfg] v1.0.0.0
+  * [ModularFuelTanks.cfg] v1.0.0.0
+* Update
+  * [KlockheedMartianTools.cfg] v1.0.2.0
+* Rename
+  * [KlockheedMartian.cfg] --> [KlockheedMartianTools.cfg] v1.0.2.0 (formeral 
+
+#### Config 2.3.99.4
+
+* Update
+  * [SpaceShuttleEngines.cfg] v1.0.4.0
+  * [ghostParts.cfg] v2.3.99.4
+
+#### Localization 2.3.99.4
+
+* Update
+  * remove superfluous strings
+  * add new tag strings
+  * [en-us.cfg] v1.0.3.0
+
+### Status 2.3.99.4
+
+* Issues
+  * closes #81 - Space Shuttle Engines (SSE) 2.3.99.4-prerelease `<Thank you dtobi>` edition
+  * closes #82 - 2.3.99.4 Additional Tasks
+  * updates #79 - [LOG ERR] missing PrefabParticleFX: Cannot find transform of name 'smokePoint'
 
 ---
 
@@ -33,31 +93,29 @@
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Change Summary 2.3.99.4
+### Summary 2.3.99.3
 
 This is the next in a series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
 
-* Add
-  * 1.875m Aerospike engine
-
-* Fix
-* Lint
-* Reformat
-* Errors
-gimbalResponseSpeed --> gimbalResponseSpeed
-
-ghostParts.cfg v2.3.99.4
-SpaceShuttleEngines.cfg v1.0.4.0
-B9Fuelswitch.cfg v1.0.0.0
-ModularFuelTanks.cfg v1.0.0.0
-KlockheedMartianTools.cfg v1.0.2.0 (formeral KlockheedMartian.cfg)
-
-### Status 2.3.99.4
+* Update sse-engine-4 (Aerospike)
+  * from model nodes to config nodes
+  * make the L=R
+  * fix several issues in the part config
+* Add two new engines
+  * 1.25m Aerospike
+  * 3.75m Aerospike
+* New: Missing transform in models ('smokePoint'), this is a model issue which I cannot fix.
+* <ghostparts.cfg> is provided. This file will not active for version 2.4.0.0-release.
+* Can search for `sse` or `km` in the editor search bar to find all parts in this pack.
 
 * Issues
-  * closes #81 - Space Shuttle Engines (SSE) 2.3.99.4-prerelease `<Thank you dtobi>` edition
-  * closes #82 - 2.3.99.4 Additional Tasks
+  * closes #73 - Space Shuttle Engines (SSE) 2.3.99.3-prerelease `<Thank you dtobi and sarbian>` edition
+  * closes #74 - 2.3.99.3 Additional Tasks
   * updates #79 - [LOG ERR] missing PrefabParticleFX: Cannot find transform of name 'smokePoint'
+  * closes #78 - [FEATURE] Add text to ENG-4 to reflect that there are two nozzles so double the thrust
+  * closes #77 - [FEATURE] Add size3 (3.75) version of Engine 4
+  * closes #76 - [FEATURE] Add size1 (1.25m) version of Engine 4
+  * closes #75 - [BUG] Engine 4 config errors
 
 ---
 
