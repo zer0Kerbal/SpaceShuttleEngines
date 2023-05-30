@@ -32,5 +32,10 @@
 	{
 		"NAME" :	  "SpaceShuttleEngines",
 		"DIRECTORY" : "KlockheedMartian/SpaceShuttleEngines"
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME"      : "Ships",
+		"DIRECTORY" : "Ships"
 	}
 }
