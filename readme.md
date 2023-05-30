@@ -3,9 +3,9 @@ Space Shuttle Engines (SSE)
 created: 24 Apr 2022
 updated: 29 May 2023
 
-TEMPLATE: readme.md v1.7.3.2
+TEMPLATE: readme.md v1.7.4.0
 created: 17 Jul 2017
-updated: 25 May 2023
+updated: 29 May 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 # [Space Shuttle Engines (SSE)][CURSFG:url]
@@ -86,7 +86,7 @@ This is a tutorial series about building and handling your own space shuttle in 
 
 ### Localization
 
->* ![English][EN] English
+>* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png) English
 >* ***your translation here***
 
 ### Help Wanted
@@ -266,7 +266,6 @@ Comment, click, like, share, up-vote, subscribe
 <!-- Localization -->
 [lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
 [qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"
 
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal
