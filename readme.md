@@ -14,7 +14,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
-[Space Shuttle Engine (SSE)][CURSFG:url] parts pack by [Klockheed Martian Engine Manufacturer][kml]
+[Space Shuttle Engines (SSE)][CURSFG:url] adds thirty-six (36) space shuttle themed parts by [Klockheed Martian Ltd (KML)](https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`dtobi`][auth-link]
 
@@ -155,7 +155,10 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 ### Supports
 
 * [Procedural Wings][pw]
-* [B9 Part Switch][b9ps]
+  * [B9 Part Switch][b9ps]
+* Fuel Switchers
+  * [Modular Fuel Tanks](http://forum.kerbalspaceprogram.com/index.php?/topic/58235-*/)
+  * [B9 Fuel Switch][b9ps]
 * [ModularManagement (MM)][MM] or [Module Manager][omm]
 
 ### Tags
