@@ -1,7 +1,7 @@
-<!-- readme.md v2.3.99.4
+<!-- readme.md v2.3.99.5
 Space Shuttle Engines (SSE)
 created: 24 Apr 2022
-updated: 29 May 2023
+updated: 30 Jun 2023
 
 TEMPLATE: readme.md v1.7.4.0
 created: 17 Jul 2017
@@ -87,6 +87,7 @@ This is a tutorial series about building and handling your own space shuttle in 
 ### Localization
 
 >* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png) English
+>* ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский) - спасибо [evanisrael](https://github/evanisrael)
 >* ***your translation here***
 
 ### Help Wanted
@@ -96,7 +97,7 @@ This is a tutorial series about building and handling your own space shuttle in 
 > * Sample crafts/subassemblies
 > * Variant textures and model updates (add/improve: lights, iva, hatches et al)
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
-> * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> * Translations: See the [README's in the Localization folder](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md) for instructions for adding or improving translations. There is also the [quick start guide(s)](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md). [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
 
 ### Installation Directions
@@ -107,7 +108,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Dependencies
 
-* [Klockheed Martian Ltd (KM/L)](https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
+* [Klockheed Martian Ltd (KML)](https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url]
 
 ### Recommends
@@ -117,6 +118,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
   * [Space Shuttle Engines (SSE)](https://www.curseforge.com/kerbal/ksp-mods/SpaceShuttleEngines)
   * [Special Parts Division (SPD)](https://www.curseforge.com/kerbal/ksp-mods/SpecialPartsDivision)
   * [Insight Lander (INSIGHT)](https://www.curseforge.com/kerbal/ksp-mods/Insight)
+* [Gimbal Trim (TRIM)](https://curseforge.com/kerbal/ksp-mods/GimbalTrim)
 
 ### Suggests
 
@@ -139,7 +141,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [SimpleLife! (LIFE)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLife)
 * [SimpleLogistics! (SLOG)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics)
 * [SimpleNotes! (NOTE)](https://www.curseforge.com/kerbal/ksp-mods/Notes)
-* [Stock Inline Lights (SIL)](https://www.curseforge.com/kerbal/ksp-mods/StackInlineLights)
+* [Stack Inline Lights (SIL)](https://www.curseforge.com/kerbal/ksp-mods/StackInlineLights)
 * Science!
   * [OScience Laboratories (OSL)](https://www.curseforge.com/kerbal/ksp-mods/OScienceLaboratories)
   * [Papa Kerballini's Pizza (PIZZA)](https://www.curseforge.com/kerbal/ksp-mods/Pizza)
@@ -149,17 +151,20 @@ Most recent releases only available via CurseForge/OverWolf Website/App
   * [LanderTek (LTK)](https://www.curseforge.com/kerbal/ksp-mods/Dreamer)
   * [Simple Cargo Solutions (CARGO)](https://www.curseforge.com/kerbal/ksp-mods/LanderTek)
   * [WhimChaser (WHIM)](https://www.curseforge.com/kerbal/ksp-mods/WhimChaser)
-* [Kerbal Joint Reinforcement (KJR)][kjr]
-* [TweakScale (twk)][twk]
+* [Kerbal Joint Reinforcement (KJR)](https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/)
+* [TweakScale (twk)](https://curseforge.com/kerbal/ksp-mods/TweakScale)
 
 ### Supports
 
-* [Procedural Wings][pw]
-  * [B9 Part Switch][b9ps]
-* Fuel Switchers
+* [Procedural Wings](https://forum.kerbalspaceprogram.com/index.php?/topic/117236-*/)
+  * [B9 Part Switch](https://forum.kerbalspaceprogram.com/topic/140541-*/)
+* Fuel Switchers:
+  * [B9 Fuel Switch](https://forum.kerbalspaceprogram.com/topic/140541-*/)
+  <!-- * [FireSpitter Core](https://legacy.curseforge.com/kerbal/ksp-mods/firespitter) -->
+  <!-- * [Interstellar Fuel Switch Core](https://legacy.curseforge.com/kerbal/ksp-mods/interstellar-fuel-switch) -->
   * [Modular Fuel Tanks](http://forum.kerbalspaceprogram.com/index.php?/topic/58235-*/)
-  * [B9 Fuel Switch][b9ps]
-* [ModularManagement (MM)][MM] or [Module Manager][omm]
+  <!-- * [SimpleFuelSwitch](https://forum.kerbalspaceprogram.com/topic/181274-*/) -->
+* [ModularManagement (MM)](https://curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
 
 ### Tags
 
@@ -251,11 +256,7 @@ Comment, click, like, share, up-vote, subscribe
 
 <!-- links to add-ons/mods -->
 [b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
-[kjr]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement-Next"
 [pw]: https://forum.kerbalspaceprogram.com/index.php?/topic/117236-*/ "Procedural Wings"
-[MM]: https://www.curseforge.com/kerbal/ksp-mods/ModularManagement "ModularManagement (MM)"
-[omm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[twk]: https://www.curseforge.com/kerbal/ksp-mods/TweakScale "TweakScale"
 
 [auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/90882-*/ "dtobi"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
@@ -265,10 +266,6 @@ Comment, click, like, share, up-vote, subscribe
 [PAYPAL:url]: https://www.paypal.com/donate/?hosted_button_id=DC22YHMEJREKL "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
 [PATREON:url]: https://www.patreon.com/zer0Kerbal/membership "Patreon"
-
-<!-- Localization -->
-[lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
-[qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
 
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal

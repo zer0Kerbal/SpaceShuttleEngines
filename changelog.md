@@ -1,14 +1,69 @@
 # Changelog  
   
-| modName    | Space Shuttle Engines (SSE)                                       |
+| modName    | Space Shuttle Engines (SSE) by dtobi                              |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-ND-4.0                                                      |
+| license    | CC-BY-ND-4.0+ARR                                                  |
 | author     | dtobi, sarbian and zer0Kerbal                                     |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209177-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SpaceShuttleEngines)    |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SpaceShuttleEngines)  |
 | spacedock  | (https://spacedock.info/mod/3009)                                 |
 | ckan       | SpaceShuttleEngines                                               |
+
+## Version 2.3.99.5-prerelease - `<Спасибо evanisrael>` edition
+
+* Released
+  * 30 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Dependencies:
+    * [Klockheed Martian Ltd (KML)](https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
+  * All 36 parts are included
+  * search for `sse` or `km` in the editor search bar to find all parts in this pack.
+  * <ghostparts.cfg> is provided. This file will not active for version 2.4.0.0-release.
+  * Missing transform in models ('smokePoint'), this is a model issue which I cannot fix.
+
+### Change Summary 2.3.99.5
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github/evanisrael)
+
+#### Localization 2.3.99.5
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [ru.cfg] v1.0.1.0
+  * add header, give credit
+* closes #25 - Russian (Русский) <ru.cfg>
+* updates #17 - Localization - Master
+* updates #18 - English <us-en.cfg>
+
+#### Documentation 2.3.99.5
+
+* Update
+  * [Attributions.md] v1.0.6.0
+  * [Localizations.md] v1.0.6.0
+  * [readme.md] v2.3.99.5
+  * [ReleaseLayout.md] 2.3.99.5
+
+### Status 2.3.99.5
+
+* Issues
+  * closes #84 - Space Shuttle Engines (SSE) 2.3.99.5-prerelease `<Спасибо evanisrael>` edition
+  * closes #85 - 2.3.99.5 Additional Tasks
+  * updates #79 - [LOG ERR] missing PrefabParticleFX: Cannot find transform of name 'smokePoint'
+
+---
 
 ## Version 2.3.99.4-prerelease - `<Thank you dtobi>` edition
 
