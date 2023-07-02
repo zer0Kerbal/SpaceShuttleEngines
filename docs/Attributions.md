@@ -4,21 +4,21 @@ title: Attributions
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!--
-Attributions.md v1.1.0.0
+Attributions.md v1.0.6.0
 Space Shuttle Engines (SSE)
-created: 30 Jul 2022
-updated: 17 Feb 2023
-
-TEMPLATE: Attributions.md v1.0.8.0
 created: 01 Feb 2022
-updated: 06 Feb 2023 -->
+updated: 30 Jun 2023
 
+TEMPLATE: Attributions.md v1.0.9.0
+created: 01 Feb 2022
+updated: 15 Mar 2023
+
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# Space Shuttle Engines (SSE)
+## [Space Shuttle Engines (SSE)][mod]
 
 [Home](./index.md)
 
@@ -40,17 +40,15 @@ updated: 06 Feb 2023 -->
 
 ### Reviews
 
+* none
+
 ### Flag(s)
 
-<ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50px" height="50px" > zer0Kerbal</a>
-</ul>
+* none
 
 ### Agency
 
-<ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50px" height="50px" > zer0Kerbal</a>
-</ul>
+* none
 
 ### Contract(s)
 
@@ -60,8 +58,13 @@ updated: 06 Feb 2023 -->
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
-  <li><small>Additions and corrections welcome!</small></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png" alt="Russian (Русский)" style="zoom:100%;" /> Russian (Русский) - спасибо <a href="https://github.com/evanisrael" alt="evanisrael">evanisrael</a></li>
+  <li><small><i>Additions and corrections welcome!</i></small></li>
 </ul>
+
+### Patreons
+
+* K
 
 ### Special Thanks
 
@@ -77,13 +80,16 @@ updated: 06 Feb 2023 -->
 
 ### Art Asset(s)
 
-* none
+* Hero Logo/Cover - All Rights Reserved
 
 ### Testing and Support
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133828-eightiesboi/"><img alt="eightiesboi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_01/happy_velociraptor_dinosaur_greeting_cards-r918b99ab65894a198682f360e419773a_xvuak_8byvr_512.thumb.jpg.00c28897eef8a91ee74f6cb59a9bbb5f.jpg" width="50px" height="50px" > eightiesboi</a></li>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/66411-zelda/"><img alt="Zelda" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2019_07/LoZ_RGB_960x960.thumb.jpg.32a815400e819b11482764bdea71373c.jpg" width="50px" height="50px" > Zelda</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133828-eightiesboi/"><img alt="eightiesboi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_01/happy_velociraptor_dinosaur_greeting_cards-r918b99ab65894a198682f360e419773a_xvuak_8byvr_512.thumb.jpg.00c28897eef8a91ee74f6cb59a9bbb5f.jpg" width="50px" height="50px"> eightiesboi</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/66411-zelda/"><img alt="Zelda" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2019_07/LoZ_RGB_960x960.thumb.jpg.32a815400e819b11482764bdea71373c.jpg" width="50px" height="50px"> Zelda</a></li>
 </ul>
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/SpaceShuttleEngines "Space Shuttle Engines (SSE)"
