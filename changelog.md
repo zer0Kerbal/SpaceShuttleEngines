@@ -44,6 +44,9 @@
 * Update
   * [ru.cfg] v1.0.1.0
   * add header, give credit
+* closes #25 - Russian (Русский) <ru.cfg>
+* updates #17 - Localization - Master
+* updates #18 - English <us-en.cfg>
 
 #### Documentation 2.3.99.5
 
@@ -52,6 +55,13 @@
   * [Localizations.md] v1.0.6.0
   * [readme.md] v2.3.99.5
   * [ReleaseLayout.md] 2.3.99.5
+
+### Status 2.3.99.5
+
+* Issues
+  * closes #84 - Space Shuttle Engines (SSE) 2.3.99.5-prerelease `<Спасибо evanisrael>` edition
+  * closes #85 - 2.3.99.5 Additional Tasks
+  * updates #79 - [LOG ERR] missing PrefabParticleFX: Cannot find transform of name 'smokePoint'
 
 ---
 
